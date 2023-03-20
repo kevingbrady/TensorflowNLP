@@ -1,0 +1,1826 @@
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Providing details for the device security capabilities, along with how to implement the security management and operational controls, and supporting maintenance activities, for the IoT device. 
+['MA-5', 'MA-2', 'AC-19', 'MA-6(3)', 'MA-2(2)', 'MA-5(5)', 'SA-4', 'PL-2']
+[0.30586863, 0.29015312, 0.28325605, 0.26728165, 0.25106317, 0.2501588, 0.2498394, 0.245284]
+['PR.MA-1', 'PR.MA-2', 'PR.AC-7', 'PR.AC-4', 'PR.AC-1']
+[0.20398617, 0.18754052, 0.123080306, 0.11920025, 0.10553491]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Providing details about the types of, and situations that trigger, local and/or remote maintenance activities required once the device is purchased and deployed in the organization’s digital ecosystem or within an individual consumer’s home.
+['MA-5', 'MA-2', 'MA-7', 'MA-6(3)', 'IA-3', 'MA-2(2)', 'AC-19', 'SA-4']
+[0.28995198, 0.25924605, 0.2569382, 0.2455531, 0.23433226, 0.22592427, 0.22340809, 0.21770948]
+['PR.MA-2', 'PR.MA-1', 'PR.AC-7', 'PR.AC-3', 'PR.AC-4']
+[0.18190672, 0.17181128, 0.09829195, 0.096200645, 0.094839945]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Describing the ability to establish management roles to perform specified information security activities, and to establish security requirements, for the IoT device. 
+['MA-5', 'SA-4', 'AC-19', 'SA-5', 'PL-2', 'PM-10', 'MA-1', 'MA-2']
+[0.3202868, 0.30085203, 0.2647392, 0.260743, 0.25662068, 0.23634806, 0.23431428, 0.22920206]
+['PR.MA-1', 'PR.MA-2', 'PR.AC-7', 'PR.AC-4', 'PR.AC-1']
+[0.1645768, 0.15654537, 0.121423885, 0.117548004, 0.10928887]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Establishing and providing communications that describe the suggested types of resources necessary to protect the associated information system(s) within which the IoT device will be deployed. 
+['MA-5', 'AC-19', 'SA-5', 'PL-2', 'SA-4', 'IA-3', 'SC-18(2)', 'MA-2']
+[0.25005367, 0.24441345, 0.24135101, 0.2288053, 0.22684504, 0.22483939, 0.22407176, 0.21607497]
+['PR.MA-1', 'PR.MA-2', 'PR.AC-4', 'ID.SC-1', 'PR.AC-7']
+[0.15342166, 0.14201777, 0.120899916, 0.12037501, 0.11848415]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Providing details about the IoT device data security and privacy capabilities and limitations, and the types of risks mitigated by the capabilities. 
+['SA-4', 'AC-19', 'MA-5', 'PL-2', 'IA-3', 'MA-2', 'SA-5', 'MA-6(3)']
+[0.27628502, 0.27220562, 0.23919123, 0.22726545, 0.22537889, 0.22232881, 0.20744243, 0.19947112]
+['PR.AC-7', 'RS.MI-3', 'PR.MA-1', 'PR.MA-2', 'RS.MI-2']
+[0.15295799, 0.14267997, 0.14159709, 0.13236874, 0.13141605]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Providing instructions and documentation describing the physical and logical access capabilities necessary to the IoT device to perform each type of maintenance activity. 
+['MA-5', 'MA-5(5)', 'MA-2', 'SA-5', 'MA-2(2)', 'MA-6(3)', 'SA-4', 'AC-19']
+[0.36675477, 0.303088, 0.30219826, 0.28743538, 0.25719252, 0.2509007, 0.24777122, 0.24776612]
+['PR.MA-1', 'PR.MA-2', 'PR.AC-4', 'PR.AC-2', 'PR.AC-7']
+[0.22171704, 0.21335988, 0.1588776, 0.14407052, 0.14262287]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device acquisition and maintenance: Establish communications describing the IoT device security, authorization, and supporting maintenance requirements
+Providing other information and actions as necessary for physically securing, and securely using, the IoT device based upon the IoT device use, purpose, and other contextual factors related to the digital ecosystem(s) within which they are intended to be used.
+['AC-19', 'SA-5', 'SA-4', 'MA-5', 'MP-7', 'IA-3', 'IA-3(4)', 'MA-5(1)']
+[0.25092044, 0.23357095, 0.20464052, 0.20278503, 0.20141372, 0.19990039, 0.19142069, 0.18460403]
+['PR.AC-7', 'PR.MA-1', 'PR.MA-2', 'ID.AM-1', 'PR.AC-4']
+[0.11980732, 0.10758188, 0.101732396, 0.0995303, 0.09643094]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications describing options for implementing security oversight of IoT device users connected to the network
+Providing descriptions of the types of physical access practices, and manufacturer suggested hardware or other types of devices, that can be used to prevent unauthorized physical access to the IoT device based upon the determined risk level that the device brings to the IoT customer’s system. 
+['AC-19', 'IA-3', 'PE-3', 'PE-3(1)', 'SA-5', 'MP-7', 'AT-3(2)', 'IA-3(1)']
+[0.28200364, 0.25230995, 0.2113213, 0.20547718, 0.19992003, 0.19585548, 0.19125941, 0.19023891]
+['PR.AC-7', 'PR.AC-2', 'PR.AC-5', 'PR.AC-4', 'PR.AC-3']
+[0.16394977, 0.1638138, 0.15871876, 0.14902614, 0.14818509]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications describing options for implementing security oversight of IoT device users connected to the network
+Providing descriptions of the physical access security procedures the manufacturer recommends to limit physical access to the device, and to associated device controls.
+['AC-19', 'AT-3(2)', 'PE-3(1)', 'PE-3', 'IA-3', 'SA-5', 'PE-1', 'AU-1']
+[0.29425365, 0.25468838, 0.24762286, 0.22783877, 0.22655177, 0.22170724, 0.2209386, 0.20177577]
+['PR.AC-2', 'PR.AC-5', 'PR.AC-7', 'PR.AC-4', 'PR.AC-3']
+[0.16869152, 0.16441989, 0.15573694, 0.15086153, 0.14999545]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications describing options for implementing security oversight of IoT device users connected to the network
+Providing details of indications, and recommendations for how to determine, when unauthorized physical access to the IoT device was or is attempted, or is occurring. 
+['AC-19', 'SA-5', 'IA-3', 'AC-7(2)', 'IA-3(1)', 'AC-24', 'PL-2', 'SC-7(26)']
+[0.2284771, 0.21621908, 0.18306816, 0.1777824, 0.17137256, 0.16373946, 0.16326822, 0.16099353]
+['PR.AC-5', 'PR.AC-2', 'PR.AC-4', 'PR.AC-1', 'PR.AC-3']
+[0.14227726, 0.1406456, 0.1402501, 0.13376562, 0.13312274]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications explaining how to accomplish logical organizational oversight for using the IoT device. 
+Providing information to IoT device customers with recommendations or suggestions for implementing management and operational controls. 
+['AC-19', 'SA-5', 'CM-9(1)', 'IA-3', 'PL-2', 'SA-4(11)', 'IA-3(4)', 'AC-6']
+[0.21907216, 0.1996967, 0.17481309, 0.1746281, 0.17355976, 0.17007719, 0.15964264, 0.1590789]
+['ID.AM-5', 'ID.AM-6', 'ID.AM-1', 'ID.SC-4', 'ID.AM-3']
+[0.1128944, 0.11073263, 0.11056466, 0.102378145, 0.09888836]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications explaining how to accomplish logical organizational oversight for using the IoT device. 
+Providing IoT device customers the tools, assistance, instructions, and other types of information to support establishing a hierarchy of role-based privileges within the IoT device.
+['AC-19', 'IR-7(1)', 'AC-6', 'IA-3', 'IR-7', 'SA-5', 'SA-15', 'IA-3(4)']
+[0.2383555, 0.23384765, 0.22657284, 0.21617626, 0.20686473, 0.20324066, 0.17157432, 0.17033917]
+['ID.AM-6', 'ID.AM-1', 'ID.AM-5', 'PR.AT-3', 'PR.AT-2']
+[0.12102208, 0.11788466, 0.1171579, 0.09928546, 0.095911175]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications explaining how to accomplish logical organizational oversight for using the IoT device. 
+Providing recommendations to IoT device customers for using the technical IoT device security controls, or external devices or applications communicating with the IoT, to establish a variety of oversight capabilities for the IoT device users.
+['AC-19', 'IA-3', 'MP-7', 'AC-20(2)', 'AC-20(5)', 'IA-3(4)', 'AC-19(3)', 'IA-3(1)']
+[0.27281794, 0.21647607, 0.1970847, 0.19091205, 0.17786291, 0.17719434, 0.17467822, 0.17434663]
+['ID.AM-1', 'PR.AC-7', 'ID.AM-6', 'ID.AM-5', 'ID.GV-1']
+[0.10653424, 0.10099997, 0.09825716, 0.09741651, 0.09387967]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Logical Access to Interfaces: Establish communications that describe the ways in which the IoT device can logically access devices on the NIST-approved products list. 
+Providing information and details to the IoT device customers indicating if and when the IoT device was placed on the Federal Information Processing Standards (FIPS) 201 approved products list for Personal Identity Verification (PIV) capability, as applicable to the use and purpose of the IoT device. 
+['SA-4(10)', 'IA-5(15)', 'IA-8(1)', 'PL-8(2)', 'IA-8(3)', 'IA-2(12)', 'AC-19', 'IA-3(4)']
+[0.55601984, 0.26548356, 0.2537325, 0.22860363, 0.21999119, 0.2184789, 0.21668324, 0.20171222]
+['PR.AC-1', 'PR.AC-3', 'PR.AC-4', 'PR.AC-6', 'PR.AC-7']
+[0.17744982, 0.14595251, 0.14362645, 0.14285529, 0.14158773]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Logical Access to Interfaces: Establish communications that describe the ways in which the IoT device can logically access devices on the NIST-approved products list. 
+Providing documentation describing how the IoT device can technically support PIV card implementation, accessibility and interfaces.
+['SA-4(10)', 'SA-5(2)', 'SA-5', 'AC-19', 'SA-4(2)', 'AC-3', 'IA-8(5)', 'PE-2']
+[0.34067082, 0.22388661, 0.2227461, 0.19533192, 0.19433427, 0.1929866, 0.1913175, 0.18724228]
+['PR.AC-3', 'PR.AC-1', 'PR.AC-4', 'PR.AC-2', 'PR.AC-7']
+[0.13880128, 0.13848802, 0.13413689, 0.13208736, 0.12942912]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Logical Access to Interfaces: Establish communications that describe the ways in which the IoT device can logically access devices on the NIST-approved products list. 
+Providing documentation with suggested ways in which customers can implement compensating controls around the IoT device if the IoT device cannot support PIV cards.
+['SA-4(10)', 'AC-19', 'SA-5', 'AC-3', 'IA-8(5)', 'IA-2(12)', 'IA-3', 'PL-8(2)']
+[0.32811633, 0.21250272, 0.20776662, 0.17781445, 0.1774714, 0.16642796, 0.16003625, 0.1583429]
+['PR.AC-1', 'PR.AC-3', 'PR.AC-7', 'PR.AC-4', 'PR.AC-2']
+[0.122313485, 0.11817556, 0.11409198, 0.113438666, 0.11086574]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Logical Access to Interfaces: Establish communications that describe the ways in which the IoT device can logically access devices on the NIST-approved products list. 
+Providing documentation explaining how to configure the IoT device to technically support PIV implementation, accessibility and interfaces.
+['SA-4(10)', 'SA-5', 'SA-5(2)', 'AC-19', 'SA-4(2)', 'AC-3', 'CM-9', 'IA-8(5)']
+[0.32040638, 0.2303867, 0.2262837, 0.20034027, 0.19641493, 0.19505285, 0.18368654, 0.17445555]
+['PR.AC-3', 'PR.AC-1', 'PR.AC-4', 'PR.AC-2', 'PR.AC-7']
+[0.14028738, 0.13997075, 0.13557303, 0.13350159, 0.13081488]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Logical Access to Interfaces: Establish communications that describe the ways in which the IoT device can logically access devices on the NIST-approved products list. 
+Providing detailed instructions for how to integrate the IoT device within a PIV system. 
+['SA-4(10)', 'AC-19', 'IA-8(5)', 'AC-3', 'PL-8(2)', 'SA-5', 'IA-2(12)', 'IA-5(15)']
+[0.36266294, 0.21050875, 0.1990773, 0.1862795, 0.17576273, 0.1714663, 0.16952011, 0.16918366]
+['PR.AC-4', 'PR.AC-1', 'PR.AC-3', 'PR.AC-2', 'PR.AC-7']
+[0.14615831, 0.13810155, 0.13484734, 0.12832467, 0.12754956]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Logical Access to Interfaces: Establish communications that describe the ways in which the IoT device can logically access devices on the NIST-approved products list. 
+Providing an attestation, from an authoritative source, that the IoT device can be used in compliance with Federal agency requirements, with associated descriptions for how the agency can accomplish this, if the IoT device cannot be integrated within a PIV system.
+['SA-4(10)', 'IA-3(4)', 'IA-8(1)', 'IA-8(5)', 'AC-19', 'IA-2(12)', 'AC-3(14)', 'IA-3']
+[0.32353386, 0.32028115, 0.25286987, 0.22476467, 0.21575917, 0.2071912, 0.19288611, 0.18241197]
+['PR.AC-1', 'PR.AC-4', 'PR.AC-7', 'PR.AC-3', 'PR.AC-2']
+[0.13965455, 0.13331454, 0.13087903, 0.12535092, 0.1192876]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing details for how to implement IoT device logical and remote access controls through device interfaces for data transmission between devices and subjects, objects, systems and components within the system. 
+['AC-19', 'AC-3', 'SA-5(2)', 'SA-4(2)', 'IA-3', 'AC-3(4)', 'AC-3(3)', 'IA-2(11)']
+[0.29676917, 0.28954425, 0.28129202, 0.26129127, 0.2415834, 0.2182171, 0.21810119, 0.21715651]
+['PR.AC-3', 'PR.AC-7', 'PR.AC-1', 'PR.AC-2', 'PR.AC-4']
+[0.19560543, 0.16335097, 0.15842432, 0.15635562, 0.15373161]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing documentation describing all the IoT device logical and remote interface access controls.
+['SA-5(2)', 'SA-5', 'AC-3', 'SA-4(2)', 'AC-19', 'AC-17(4)', 'AC-17(6)', 'AC-17(1)']
+[0.31171367, 0.25739935, 0.24938688, 0.24077626, 0.22866789, 0.2284768, 0.22171742, 0.21729739]
+['PR.AC-3', 'PR.AC-2', 'PR.AC-4', 'PR.AC-7', 'PR.AC-1']
+[0.2056082, 0.16248308, 0.1605125, 0.15824571, 0.15703855]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing detailed instructions for how to restrict access to the IoT device interface for both users of the interface, and for the data that can be transmitted through that interface, and describing if and how interface restrictions can be defined.
+['SA-5(2)', 'SC-2(1)', 'SA-4(2)', 'SC-2', 'SC-7', 'AC-19', 'SA-8(14)', 'SA-17(7)']
+[0.3544801, 0.34662947, 0.28048393, 0.261984, 0.25526583, 0.24232544, 0.23041445, 0.2286703]
+['PR.AC-7', 'PR.AC-1', 'PR.AC-3', 'PR.AC-2', 'PR.AC-4']
+[0.14330375, 0.14228016, 0.14065316, 0.13232069, 0.12987508]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing copies of the manufacturer's policies and practices that govern how and with whom the manufacturer shares the data obtained from the manufacturer's IoT device.
+['SA-5', 'SA-5(2)', 'AC-19', 'SA-4(2)', 'SR-6', 'SC-7(14)', 'AC-3', 'IA-3']
+[0.21543163, 0.2031999, 0.20092596, 0.18857872, 0.18718466, 0.180356, 0.16809432, 0.1481419]
+['PR.AC-1', 'PR.AC-3', 'PR.AC-7', 'PR.AC-4', 'PR.AC-2']
+[0.10985097, 0.10752583, 0.10389833, 0.102828294, 0.10037581]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing the details and instructions to establish management and operational controls on and/or to the IoT device.
+['SA-5(2)', 'AC-19', 'SA-5', 'SA-4(2)', 'AC-3', 'SC-2(1)', 'IA-3', 'SC-2']
+[0.24806948, 0.24679628, 0.23752972, 0.21761654, 0.20417787, 0.1889236, 0.18245757, 0.17665084]
+['PR.AC-3', 'PR.AC-7', 'PR.AC-4', 'PR.AC-1', 'PR.AC-2']
+[0.1474926, 0.13954523, 0.13752857, 0.13659011, 0.13559975]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing details and descriptions about the specific types of manufacturer’s needs to access the IoT device interfaces; such as for specific support, updates, ongoing maintenance, and other types of purposes.
+['SA-5(2)', 'AC-3(11)', 'SA-4(2)', 'SA-5', 'AC-19', 'IA-3', 'SC-2(1)', 'AC-3']
+[0.28272313, 0.25800177, 0.24056186, 0.23805018, 0.23421565, 0.21693291, 0.20210272, 0.19565949]
+['PR.AC-3', 'PR.AC-7', 'PR.AC-4', 'PR.AC-2', 'PR.AC-1']
+[0.13280632, 0.12818976, 0.12485327, 0.12444898, 0.12398869]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing documentation describing the manufacturer requirements for collecting data from the IoT device, including the specific types of data being collected.
+['SA-5', 'SA-5(2)', 'AC-19', 'SC-42(4)', 'SI-19(1)', 'AC-3(11)', 'SA-4(2)', 'SA-4']
+[0.25845706, 0.25748792, 0.23167089, 0.22163182, 0.21807282, 0.21327154, 0.21160634, 0.20237759]
+['PR.AC-3', 'PR.AC-4', 'PR.AC-7', 'PR.AC-1', 'PR.AC-2']
+[0.12058878, 0.11916168, 0.11684519, 0.11417523, 0.11271431]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing documentation with instructions for the IoT device customer to follow for how to restrict interface connections that enable specific activities.
+['SA-5(2)', 'AC-19', 'SA-5', 'AC-3(11)', 'SC-2(1)', 'SA-4(2)', 'MP-7', 'SC-7']
+[0.31490153, 0.2857227, 0.2800569, 0.25439823, 0.24801205, 0.24335569, 0.22441204, 0.2117153]
+['PR.AC-3', 'PR.AC-7', 'PR.AC-1', 'PR.AC-2', 'PR.AC-4']
+[0.14648327, 0.14239246, 0.13962656, 0.13738671, 0.13715962]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing descriptions of the types of access to the IoT device the manufacturer will require on an ongoing or regular basis
+['SA-5', 'SA-5(2)', 'AC-19', 'SA-4(2)', 'IA-3', 'AC-3', 'AC-3(11)', 'SA-4']
+[0.23126706, 0.22784519, 0.22355913, 0.20481741, 0.19806539, 0.19639401, 0.18257564, 0.17725387]
+['PR.AC-3', 'PR.AC-4', 'PR.AC-2', 'PR.AC-7', 'PR.AC-1']
+[0.1429069, 0.13482504, 0.1338091, 0.12982984, 0.12873995]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing detailed instructions for how to implement management and operational controls based on the role of the IoT device user, and not on an individual basis. 
+['SA-5', 'AC-19', 'SA-5(2)', 'SC-2(1)', 'SA-4(2)', 'AC-3', 'SC-2', 'PL-2']
+[0.24624307, 0.2439424, 0.24356207, 0.22105263, 0.2206986, 0.21562871, 0.20411849, 0.2038464]
+['PR.AC-7', 'PR.AC-3', 'PR.AC-1', 'PR.AC-4', 'PR.AC-2']
+[0.1543467, 0.14769599, 0.1436421, 0.13710794, 0.13612366]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing information and detailed instructions for how to establish, change and technically enforce role-based access settings and capabilities built within the IoT device, such as admin, general user, and other types of roles.
+['CM-6', 'AC-19', 'AC-3', 'SA-5', 'SC-2(1)', 'AC-3(7)', 'SA-5(2)', 'AC-3(11)']
+[0.2352515, 0.2254272, 0.22111884, 0.22010472, 0.21658032, 0.21152201, 0.20307568, 0.20249043]
+['PR.AC-3', 'PR.AC-7', 'PR.AC-1', 'PR.AC-2', 'PR.AC-4']
+[0.12959479, 0.12305211, 0.122076, 0.12153495, 0.12140094]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+3.	Logical Access to Interfaces: Establish communications detailing the IoT device interface and access controls capabilities. 
+Providing information and instructions describing how role-based access settings and capabilities for the IoT device can be established, changed and technically enforced using hardware, software and/or firmware that is outside of the IoT device.
+['AC-19', 'CM-6', 'CM-5', 'SI-7', 'SA-5(2)', 'SA-10(1)', 'SA-17(2)', 'SA-17(4)']
+[0.2600038, 0.25854883, 0.23697847, 0.21151283, 0.2087146, 0.20242886, 0.19760595, 0.19654834]
+['PR.AC-3', 'PR.AC-4', 'PR.AC-7', 'PR.AC-2', 'PR.AC-1']
+[0.12201502, 0.1207193, 0.114466205, 0.114328265, 0.11353411]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+4.	Logical Access to Interfaces:  Establish communications describing situations where identification and authentication are not needed for the IoT device. 
+Providing detailed instructions and guidance for establishing activities performed by the IoT device that do not require identification or authentication
+['AC-14', 'IA-3(4)', 'IA-3', 'IA-9', 'IA-11', 'IA-3(2)', 'IA-1', 'IA-2(11)']
+[0.40572754, 0.38838622, 0.37527782, 0.34478468, 0.32522058, 0.30897486, 0.30023912, 0.296736]
+['PR.AC-6', 'PR.AC-1', 'PR.AC-7', 'PR.AC-4', 'PR.AC-3']
+[0.17691118, 0.1752001, 0.169236, 0.1686218, 0.15963614]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+4.	Logical Access to Interfaces:  Establish communications describing situations where identification and authentication are not needed for the IoT device. 
+Providing a description of the privacy protection capabilities built within the IoT device that do not require authentication.
+['IA-3', 'IA-3(4)', 'IA-11', 'AC-14', 'IA-9', 'IA-3(2)', 'IA-1', 'IA-2(11)']
+[0.36553428, 0.3610128, 0.34391966, 0.34247237, 0.29287294, 0.2866558, 0.27363464, 0.26424697]
+['PR.AC-7', 'PR.AC-1', 'PR.AC-6', 'PR.AC-4', 'PR.AC-3']
+[0.180136, 0.17246902, 0.16806954, 0.16566028, 0.15741634]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+4.	Logical Access to Interfaces:  Establish communications describing situations where identification and authentication are not needed for the IoT device. 
+Providing a description for how to access the IoT device through the logical access interface without authentication, as applicable to the purpose of the device. 
+['IA-3(4)', 'IA-3', 'AC-14', 'IA-2(11)', 'IA-11', 'IA-2(6)', 'IA-3(2)', 'IA-2']
+[0.36365035, 0.36272648, 0.35367617, 0.29010373, 0.28653383, 0.27435005, 0.26977858, 0.26698104]
+['PR.AC-3', 'PR.AC-1', 'PR.AC-7', 'PR.AC-4', 'PR.AC-6']
+[0.21394321, 0.21374927, 0.21313658, 0.2119346, 0.20528519]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+5.	Cybersecurity State Awareness: Establish communications explaining how to provide monitoring information to authorized personnel or roles. 
+Providing information that describes the types of system monitoring information generated from, or associated with, the IoT device and instructions for obtaining that information.
+['SA-5', 'SI-4', 'SI-4(16)', 'CA-7', 'PM-31', 'PM-14', 'CA-1', 'SI-4(8)']
+[0.3207241, 0.25953847, 0.24844448, 0.22808896, 0.22236049, 0.2158916, 0.21584143, 0.21137881]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-3', 'PR.AT-1']
+[0.21998215, 0.19783422, 0.19579984, 0.18527159, 0.15576942]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+5.	Cybersecurity State Awareness: Establish communications explaining how to provide monitoring information to authorized personnel or roles. 
+Providing documentation describing the types of monitoring tools with which the IoT device is compatible, and recommendations for how to configure the IoT device to best work with such monitoring tools.
+['SI-4(16)', 'SI-4', 'SI-4(9)', 'SA-15', 'SA-15(2)', 'SI-4(8)', 'SA-5', 'CA-7(4)']
+[0.30973202, 0.30388674, 0.2804921, 0.258928, 0.24632728, 0.23440208, 0.23159443, 0.22792278]
+['DE.CM-7', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'DE.CM-3']
+[0.16673185, 0.15718988, 0.13804306, 0.13662352, 0.13098176]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Cybersecurity State Awareness: Establish communications describing how the IoT device cybersecurity event data is protected from unauthorized access, modification, and deletion. 
+Providing documentation and/or other communications describing how to implement management and operational controls to protect data, obtained from IoT devices, and associated systems and intrusion-monitoring tools, from unauthorized access, modification, and deletion.
+['SA-5', 'SA-8(31)', 'AU-9', 'PL-2', 'SA-10', 'CP-9(4)', 'SA-8(19)', 'CP-9(7)']
+[0.2676114, 0.262705, 0.252036, 0.21676566, 0.20858456, 0.20782074, 0.19735211, 0.19380258]
+['PR.AT-5', 'PR.AC-2', 'PR.AT-2', 'PR.AT-4', 'DE.CM-7']
+[0.17804085, 0.16023232, 0.15371367, 0.152133, 0.15037595]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Cybersecurity State Awareness: Establish communications describing how the IoT device cybersecurity event data is protected from unauthorized access, modification, and deletion. 
+Providing documentation describing the types of usage and environmental systems data that can be collected from the IoT device.
+['SA-5', 'AC-19', 'PE-1', 'SC-43', 'PL-2', 'SA-8(31)', 'AC-4(6)', 'AC-4(12)']
+[0.2386041, 0.20948718, 0.18739334, 0.17663436, 0.17646486, 0.17524193, 0.16617675, 0.16277173]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-3', 'PR.AT-1']
+[0.18329582, 0.15863875, 0.15380935, 0.1467403, 0.14457327]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Data Protection: Establish communications describing capabilities supporting IoT device data integrity, secure data handling and data retention. 
+Providing communications to IoT device customers describing how to implement management and operational controls to protect IoT device data integrity and associated systems data integrity.
+['AC-4(6)', 'SA-8(20)', 'SA-9(7)', 'PM-23', 'SA-8(19)', 'AC-23', 'AC-4(19)', 'AC-4(8)']
+[0.3115136, 0.28443667, 0.25984457, 0.25740558, 0.25270692, 0.25148574, 0.23275386, 0.23217086]
+['PR.DS-6', 'PR.DS-8', 'PR.DS-1', 'PR.DS-2', 'PR.DS-5']
+[0.29394668, 0.29175973, 0.2797779, 0.27910343, 0.27513206]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Data Protection: Establish communications describing capabilities supporting IoT device data integrity, secure data handling and data retention. 
+Providing detailed information listing capabilities that are required by data protection regulations. 
+['AC-4(6)', 'SA-8(20)', 'AC-23', 'PM-23', 'SA-8(19)', 'CM-13', 'AC-4(12)', 'AC-4(8)']
+[0.30344647, 0.2869746, 0.28227207, 0.275292, 0.26447105, 0.25745377, 0.25181836, 0.24907538]
+['PR.DS-1', 'PR.DS-2', 'PR.DS-5', 'PR.DS-6', 'PR.DS-8']
+[0.2525494, 0.25194064, 0.24802284, 0.2214823, 0.21259673]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Data Protection: Establish communications describing capabilities supporting IoT device data integrity, secure data handling and data retention. 
+Providing detailed instructions for how to implement management and operational controls for securely handling and retaining IoT device data, associated systems data, and data output from the IoT device.
+['AC-4(6)', 'SA-8(20)', 'PM-23', 'AC-23', 'AC-4(19)', 'AC-4(12)', 'IR-4(1)', 'CM-13']
+[0.29478312, 0.28568262, 0.25848243, 0.2554752, 0.25174952, 0.2489443, 0.24765241, 0.24742448]
+['PR.DS-1', 'PR.DS-2', 'PR.DS-5', 'PR.DS-6', 'PR.DS-8']
+[0.21713361, 0.21661018, 0.21537076, 0.18251748, 0.17683502]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Data Protection: Establish communications describing capabilities supporting IoT device data integrity, secure data handling and data retention. 
+Providing documentation describing how to irreversibly delete data from the IoT device.
+['AC-4(6)', 'SA-8(20)', 'AC-4(25)', 'SA-5', 'PM-23', 'AC-23', 'AC-4(19)', 'AC-4(8)']
+[0.28596514, 0.25001228, 0.2348254, 0.23368998, 0.23123063, 0.23019138, 0.222575, 0.22181419]
+['PR.DS-1', 'PR.DS-2', 'PR.DS-5', 'PR.DS-6', 'PR.DS-8']
+[0.21010496, 0.2095984, 0.20386286, 0.18448682, 0.17991516]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Data Protection: Establish communications describing capabilities supporting IoT device data integrity, secure data handling and data retention. 
+Providing detailed instructions for how to protect device data from being accidentally modified.
+['AC-4(6)', 'SA-8(20)', 'AC-23', 'PM-23', 'CM-13', 'SI-19', 'AC-4(19)', 'AC-4(12)']
+[0.2812399, 0.26780632, 0.24642517, 0.2411169, 0.23097152, 0.22942114, 0.22755136, 0.22684439]
+['PR.DS-1', 'PR.DS-2', 'PR.DS-5', 'PR.DS-6', 'PR.DS-8']
+[0.2514559, 0.25084972, 0.24779068, 0.21765323, 0.21251988]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Acquisition and Maintenance: Establish documentation describing IoT device security requirements that can be used to support customers’ organizational mission, business process planning, and IoT device acquisitions requirements. 
+Providing detailed information describing the resources necessary for each type of  security capability used with the IoT device.
+['SA-4', 'PL-2', 'SA-2', 'AC-19', 'SA-5', 'SC-18(2)', 'SA-1', 'IA-3']
+[0.32318753, 0.3101078, 0.26505157, 0.26143605, 0.25666466, 0.25494045, 0.24035494, 0.22904482]
+['ID.AM-5', 'ID.SC-3', 'ID.SC-5', 'PR.IP-1', 'PR.AC-7']
+[0.12187688, 0.11089875, 0.11043852, 0.1089109, 0.1031736]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Acquisition and Maintenance: Establish documentation describing IoT device security requirements that can be used to support customers’ organizational mission, business process planning, and IoT device acquisitions requirements. 
+Providing instructions and/or information describing the recommended methods and tools for protecting the IoT device hardware, software and data, and the associated resources necessary to support them
+['SA-4', 'SR-5', 'SA-15', 'AC-19', 'PL-2', 'SA-2', 'SA-5', 'MA-3']
+[0.28728998, 0.27755374, 0.2721663, 0.26555192, 0.25808796, 0.24976133, 0.24499378, 0.23428605]
+['ID.AM-5', 'PR.MA-1', 'PR.IP-1', 'PR.IP-1', 'PR.AC-7']
+[0.16879931, 0.112721905, 0.11206387, 0.11162166, 0.11139597]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Acquisition and Maintenance: Establish documentation describing IoT device security requirements that can be used to support customers’ organizational mission, business process planning, and IoT device acquisitions requirements. 
+Providing detailed instructions for how to establish restrictions for the acquisition of IoT devices, systems and services to only assigned organizationally-defined personnel or roles.
+['SA-1', 'SA-4', 'SC-18(2)', 'AC-19', 'PL-2', 'SA-5', 'SA-4(4)', 'SA-9(1)']
+[0.30273852, 0.29948303, 0.29053015, 0.27033514, 0.26626924, 0.2483852, 0.24178316, 0.23407683]
+['ID.AM-5', 'ID.AM-6', 'ID.BE-5', 'ID.SC-5', 'ID.AM-1']
+[0.13015535, 0.12737194, 0.119527966, 0.117578626, 0.11712344]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Acquisition and Maintenance: Establish documentation describing IoT device security requirements that can be used to support customers’ organizational mission, business process planning, and IoT device acquisitions requirements. 
+Providing documentation that clearly details the IoT device security and privacy capabilities and limitations, the specific types of manufacturer support that will be provided throughout the life of the device, supported operating systems compatible with the IoT device, and other information pertinent to the use and security of the device.
+['PL-2', 'AC-19', 'SA-4', 'SA-5', 'SA-3', 'IA-3', 'SA-5(2)', 'SC-18(2)']
+[0.30232373, 0.30089417, 0.294596, 0.26819006, 0.2477879, 0.24173915, 0.21972793, 0.21579404]
+['ID.BE-5', 'ID.RM-2', 'PR.IP-2', 'PR.AC-7', 'ID.SC-5']
+[0.12232894, 0.11144339, 0.107940815, 0.10719262, 0.10175877]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish documentation and communications describing the types of legal compliance the IoT device supports. 
+Providing documentation describing the legal (Federal regulations, state and local laws) requirements for security and privacy controls that the IoT device supports. 
+['SA-5', 'SA-4', 'AC-19', 'PL-2', 'PM-27', 'IA-3', 'SC-1', 'SA-8(32)']
+[0.28250542, 0.24428828, 0.22732212, 0.22169703, 0.21362874, 0.19687745, 0.18356526, 0.1816811]
+['ID.GV-3', 'ID.GV-1', 'ID.GV-4', 'ID.GV-2', 'RS.CO-2']
+[0.21344747, 0.13048452, 0.1145803, 0.114048645, 0.08275823]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish documentation and communications describing the types of legal compliance the IoT device supports. 
+Providing information describing how the manufacturer stays up-to-date with regulations, laws, and other legal requirements and standards that apply to IoT devices.
+['SA-5', 'AC-19', 'SA-4', 'SI-4(19)', 'PL-2', 'PT-7', 'IA-3', 'AU-14']
+[0.2154983, 0.20288348, 0.19301246, 0.16985072, 0.16907272, 0.16881885, 0.16582187, 0.16167252]
+['ID.GV-3', 'ID.GV-1', 'ID.GV-4', 'ID.GV-2', 'ID.SC-4']
+[0.20108801, 0.123421416, 0.10820252, 0.10759792, 0.07907977]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish documentation and communications describing the types of legal compliance the IoT device supports. 
+Providing white papers and use cases of existing IoT device customers describing how they used the IoT device in ways that supported their legal compliance requirements needs.
+['SA-5', 'AC-19', 'SA-4', 'IA-3', 'PL-2', 'MP-7', 'CA-9(1)', 'AU-14']
+[0.23097672, 0.21622585, 0.20184098, 0.18080913, 0.17106526, 0.16766328, 0.16537452, 0.15727927]
+['ID.GV-3', 'ID.GV-1', 'ID.GV-2', 'ID.SC-4', 'ID.GV-4']
+[0.16606979, 0.102455996, 0.09795053, 0.09395973, 0.089449316]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications and documentation that detail the expected lifespan of the device, the expected time for supporting the device, the costs for maintaining the device, the costs for device parts replacements, costs for device repairs, and other costs related to using the IoT device. 
+Providing detailed information about the anticipated costs associated with the IoT device purchase, usage activities, repairs, maintenance, parts, operations, security, and disposal costs throughout the potential lifetime of the IoT device. 
+['SA-8(25)', 'MA-2', 'MA-2(2)', 'SA-8(8)', 'AC-19', 'MA-6(2)', 'SI-13(1)', 'IA-3']
+[0.2961023, 0.27378884, 0.24841197, 0.2306696, 0.21101308, 0.17992884, 0.16353367, 0.15830828]
+['PR.MA-1', 'PR.MA-2', 'DE.AE-1', 'PR.AC-7', 'PR.AC-1']
+[0.1804229, 0.13482365, 0.08803206, 0.07763205, 0.06730891]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications that describes the manufacturer’s third party, contractor, and vendor IoT device security oversight, and for including security and privacy requirements within contractual agreements. 
+Communications, detailed descriptions, methods, techniques, and/or policies the manufacturer uses to monitor IoT device activities and associated systems security control compliance by external service providers on an ongoing basis.
+['SA-9', 'SR-6', 'PS-7', 'SA-4', 'IR-7(2)', 'AU-1', 'SC-1', 'PL-2']
+[0.37791285, 0.30499968, 0.27886397, 0.2704598, 0.24872312, 0.2420595, 0.24139197, 0.23454209]
+['PR.AT-3', 'ID.SC-4', 'ID.SC-5', 'RC.CO-3', 'ID.AM-6']
+[0.17827882, 0.15873508, 0.15250927, 0.1465604, 0.14096262]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications that describes the manufacturer’s third party, contractor, and vendor IoT device security oversight, and for including security and privacy requirements within contractual agreements. 
+Providing detailed information describing how the IoT device manufacturer performs oversight activities for their supporting entities, including such information as:
+o	How the manufacturer meets legal and/or regulatory safeguard requirements related to supply chain risk management. 
+o	Details about the activities performed by each of the supporting entities to whom the manufacturer outsources IoT device support activities, and how such activities are monitored.
+o	The ways in which security and oversight requirements are included within contracts with entities throughout the supply chain for the IoT device.
+o	Remote monitoring activities the manufacturer performs for each of the supporting entities’ activities.
+o	Description of the other access and data collection, use and sharing activities the supporting entities perform in support of the IoT devices, and how the manufacturer provides monitoring for these activities.
+['IR-4(10)', 'IR-6(3)', 'SR-6', 'SA-4', 'SR-4(1)', 'SR-6(1)', 'PM-14', 'SR-3']
+[0.30337593, 0.27661568, 0.26803508, 0.2400115, 0.23118474, 0.23005146, 0.22544731, 0.2217046]
+['ID.SC-3', 'ID.SC-4', 'ID.SC-5', 'ID.SC-2', 'ID.GV-3']
+[0.2281923, 0.22382988, 0.21569458, 0.2059412, 0.17113835]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications that describes the manufacturer’s third party, contractor, and vendor IoT device security oversight, and for including security and privacy requirements within contractual agreements. 
+Communications and documentation detailing how the IoT device supports regulatory requirements for auditing and monitoring capabilities. Such information should list the external supporting entities throughout the supply chain that are involved with these activities, the specific activities and data that the supporting entities access while providing these activities, and the oversight that the manufacturer provides for the supporting entities. 
+['IR-4(10)', 'IR-6(3)', 'SR-6', 'SA-5', 'SA-4', 'PM-27', 'AU-1', 'SR-8']
+[0.32485333, 0.2983937, 0.27690938, 0.2548167, 0.25415522, 0.23898634, 0.23399304, 0.22971137]
+['ID.SC-4', 'ID.SC-3', 'ID.SC-5', 'ID.SC-2', 'ID.GV-3']
+[0.22263734, 0.2038035, 0.19790205, 0.18667278, 0.18273436]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications that describes the manufacturer’s third party, contractor, and vendor IoT device security oversight, and for including security and privacy requirements within contractual agreements. 
+Providing the detailed instructions for how IoT customers can implement and consistently use methods and techniques to monitor the IoT device and associated systems security control compliance of the manufacturer’s supporting entities on an ongoing basis. 
+['SR-6', 'SA-9', 'SA-4', 'PL-2', 'SA-5', 'SR-5', 'AU-1', 'PL-8(2)']
+[0.29240885, 0.27677664, 0.25126356, 0.23916472, 0.2324178, 0.23204093, 0.22298536, 0.2153167]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'ID.SC-5', 'ID.SC-3']
+[0.19590816, 0.18417452, 0.15073213, 0.14256188, 0.14054039]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications that describes the manufacturer’s third party, contractor, and vendor IoT device security oversight, and for including security and privacy requirements within contractual agreements. 
+Providing appropriate tools, assistance, instructions, or other details describing the capabilities for monitoring the IoT device and/or for the IoT device customer to report actions to the manufacturer’s supporting entity’s monitoring service. 
+['SR-6', 'SA-4', 'SA-9', 'SA-5', 'AC-19', 'PM-27', 'SI-4', 'PL-2']
+[0.30029503, 0.2500547, 0.23593266, 0.23201159, 0.22427134, 0.2215708, 0.21599948, 0.20907645]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'ID.SC-5', 'ID.SC-3']
+[0.17975682, 0.15790476, 0.14487413, 0.13744338, 0.13315168]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+1.	Device Security: Establish communications that describes the manufacturer’s third party, contractor, and vendor IoT device security oversight, and for including security and privacy requirements within contractual agreements. 
+Communicating the manufacturer’s procedure for how customers can provide feedback when the manufacturer’s supply chain security management and logging practices do not meet established compliance requirements of IoT device customers’ external service providers.
+['SR-6', 'SA-9', 'IR-6(3)', 'IR-4(10)', 'PS-7', 'PM-30(1)', 'SA-4', 'SA-12(2)']
+[0.38630652, 0.3749742, 0.3172424, 0.31589773, 0.2965716, 0.28700283, 0.27635813, 0.25854328]
+['ID.SC-5', 'ID.SC-4', 'ID.SC-3', 'ID.SC-2', 'PR.AT-3']
+[0.28126806, 0.27615106, 0.26572168, 0.24375981, 0.20089334]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing within the IoT device customer contracts a description and listing of the third parties used by the manufacturers that will have access to the IoT device and/or the data collected, generated, accessed, processed, or shared through the device, and a description of the associated security and privacy controls established for such third parties.
+['SR-6', 'SA-4', 'PS-6', 'AC-19', 'PL-2', 'PS-9', 'SA-5', 'IA-3']
+[0.25548336, 0.25158513, 0.22256705, 0.21945436, 0.20854452, 0.20019399, 0.18803772, 0.17407471]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'ID.SC-3', 'ID.SC-5']
+[0.21121177, 0.20015156, 0.19422169, 0.18289436, 0.17776667]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing documentation detailing all the cloud services used to support the IoT device.
+['SA-5', 'SA-4', 'PS-6', 'AC-19', 'PL-2', 'SA-9', 'SR-6', 'CM-10']
+[0.2890162, 0.24031802, 0.21590255, 0.21060212, 0.19503155, 0.18896116, 0.18522435, 0.17266726]
+['ID.SC-4', 'PR.AT-3', 'ID.SC-3', 'ID.SC-5', 'ID.SC-2']
+[0.16479696, 0.14097528, 0.13572612, 0.1272388, 0.115141094]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing a detailed description of all logical interfaces to the IoT device and documenting the interfaces used by the manufacturer's third parties, and the purposes for such uses.
+['SA-4', 'SR-6', 'SA-5', 'SA-5(2)', 'AC-19', 'PL-2', 'SA-4(2)', 'PS-6']
+[0.23355743, 0.22892049, 0.22095308, 0.21324694, 0.20777301, 0.19878398, 0.18675569, 0.1839335]
+['ID.SC-4', 'PR.AT-3', 'ID.AM-6', 'ID.SC-3', 'ID.SC-5']
+[0.17460431, 0.1719431, 0.16978177, 0.15175381, 0.14605938]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing the IoT device customers with a list of the third parties to whom the manufacturer provides the IoT device data and/or customer information.
+['SR-6', 'AC-19', 'SA-5', 'SA-4', 'PS-6', 'SA-9', 'PL-8(2)', 'IA-3']
+[0.26668042, 0.2285884, 0.21086131, 0.20365678, 0.19059962, 0.18860021, 0.17618676, 0.17142439]
+['PR.AT-3', 'ID.AM-6', 'ID.SC-4', 'ID.SC-5', 'ID.SC-3']
+[0.2247651, 0.20242307, 0.18236278, 0.16268058, 0.15124233]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing the IoT device customers with a list of the types of data provided to the third parties directly form and/or by the device (e.g., device usage, entities using the device, device location, personal data, etc.).
+['AC-19', 'IA-3', 'MP-7', 'AC-19(3)', 'AC-19(2)', 'SR-6', 'AC-20(2)', 'SA-4']
+[0.33726528, 0.25323525, 0.22826698, 0.21879014, 0.21709901, 0.21444061, 0.21137978, 0.20217551]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'ID.SC-5', 'ID.SC-3']
+[0.19067864, 0.1795123, 0.1763104, 0.13430983, 0.13121882]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing the IoT device customers a detailed description of the other types of devices, systems, etc., that will be accessing the IoT device during customer use of the device, and how they will be accessing it. 
+['AC-19', 'IA-3', 'PS-6', 'MP-7', 'SA-4', 'AC-19(3)', 'SA-5', 'AC-19(2)']
+[0.28042626, 0.23853084, 0.23551053, 0.22373532, 0.21513182, 0.2107101, 0.20658338, 0.20184404]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'PR.AC-7', 'PR.AC-3']
+[0.14881495, 0.14104567, 0.13720712, 0.12325522, 0.10890156]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing within the IoT device customer contracts, disclosures and/or similar types of documents, describing the actions the manufacturer will take for requested modification of interface capabilities, the supporting entities involved, and descriptions for how device customers should make such requests. 
+['SA-4', 'SA-5', 'AC-19', 'PS-6', 'PL-2', 'SR-6', 'CM-10', 'SA-9']
+[0.24584462, 0.23531297, 0.23319213, 0.22539265, 0.21808007, 0.21207668, 0.19805546, 0.1930349]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'ID.SC-3', 'ID.SC-5']
+[0.17494813, 0.14100869, 0.13309033, 0.12531036, 0.1143494]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing a detailed description for how the IoT device customer will be notified of changes in the activities of the manufacturer's contractors and third parties that have access to the IoT devices, such as when the origination or locations (e.g., city, state, country) of the contractors or third parties change, and other related types of contractor and third-party changes.
+['SR-6', 'SA-4', 'AC-19', 'CM-3(1)', 'SA-5', 'IA-8(6)', 'PL-2', 'CM-3']
+[0.31134656, 0.16087018, 0.15565479, 0.15445535, 0.15151148, 0.15108894, 0.15094289, 0.15038201]
+['PR.AT-3', 'ID.AM-6', 'ID.SC-4', 'ID.SC-5', 'ID.SC-3']
+[0.20532216, 0.18122534, 0.16352996, 0.15434416, 0.14080681]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing a detailed description of the methods by which the manufacturer prevents unauthorized access to the customer's IoT device by third parties not listed on the provided documentation.
+['SA-5', 'SA-4', 'SR-6', 'PS-6', 'PL-2', 'SR-5', 'AC-19', 'SA-9']
+[0.25972486, 0.25609422, 0.2519142, 0.21190222, 0.2099276, 0.20617753, 0.19545738, 0.18212168]
+['PR.AT-3', 'ID.AM-6', 'ID.SC-4', 'ID.SC-5', 'ID.SC-3']
+[0.21226802, 0.1717372, 0.17036988, 0.14881128, 0.1409108]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing a detailed description for how third parties are, or can be, prohibited by the IoT device customers from accessing the IoT device and/or restricted in their access to the device.
+['PS-6', 'AC-19', 'AC-20(2)', 'AC-19(4)', 'AC-20(5)', 'MP-7', 'AC-3(1)', 'MP-2(1)']
+[0.25978178, 0.25941476, 0.24919294, 0.22795202, 0.22577277, 0.22022052, 0.2159851, 0.21572572]
+['PR.AT-3', 'ID.SC-4', 'ID.AM-6', 'PR.AC-7', 'ID.SC-5']
+[0.1761565, 0.16141948, 0.15877354, 0.14116198, 0.13454142]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing a detailed description for the ways in which the manufacturer and/or the manufacturer’s listed supporting entities, will be accessing and making modifications to the IoT device throughout the expected or typical lifespan of the IoT device.
+['SA-4', 'AC-19', 'PL-2', 'PS-6', 'SA-5', 'SR-6', 'IA-3', 'SA-22']
+[0.20522209, 0.20376065, 0.19309443, 0.18361086, 0.18018843, 0.17901649, 0.15917246, 0.14344198]
+['ID.SC-4', 'PR.AT-3', 'ID.AM-6', 'ID.SC-5', 'ID.SC-3']
+[0.12992088, 0.11990913, 0.11866434, 0.10292221, 0.10048666]
+
+
+A. Documentation from the Manufacturer 
+1.	Document assumptions made during the development process and other expectations related to the IoT device. 
+2.	Device Security: Establish communications  detailing the security and privacy requirements the manufacturer includes within their supporting entity contractual agreements that cover access to, and/or use of, the IoT device by third parties. 
+Providing a description to Federal agencies for how the IoT device supports the Federal Risk and Authorization Management Program (FedRAMP) requirements.
+['SA-4', 'PM-18', 'AC-19', 'PL-2', 'PS-6', 'CA-3', 'PM-10', 'PM-1']
+[0.27088872, 0.23590562, 0.22003825, 0.21034007, 0.2071971, 0.20626652, 0.2024794, 0.20129102]
+['ID.SC-4', 'ID.SC-3', 'ID.SC-5', 'ID.SC-2', 'PR.AT-3']
+[0.1834174, 0.16871041, 0.15229715, 0.13386896, 0.13202266]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+1.	Device Acquisition and Maintenance: Establish communications detailing the ways in which the IoT device capabilities connect to and communicate with diagnostic tools used by the manufacturer and/or supporting entities to support customers’ legal requirements. 
+Providing the details necessary for IoT device customers to implement only organizationally-approved IoT device diagnostic tools within their system.
+['MA-3', 'MA-4', 'AC-19', 'MA-4(3)', 'SA-5', 'PL-2', 'SA-4', 'SA-15']
+[0.22650132, 0.22532184, 0.21987878, 0.21012081, 0.18548913, 0.18278567, 0.18132532, 0.17328995]
+['ID.GV-1', 'ID.SC-3', 'ID.GV-3', 'ID.AM-6', 'PR.PT-3']
+[0.11892509, 0.11750803, 0.10992305, 0.10917351, 0.10374805]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+1.	Device Acquisition and Maintenance: Establish communications detailing the ways in which the IoT device capabilities connect to and communicate with diagnostic tools used by the manufacturer and/or supporting entities to support customers’ legal requirements. 
+Providing detailed documentation describing the tools manufacturers require for IoT device diagnostics activities.
+['MA-4', 'SA-5', 'MA-3', 'MA-4(3)', 'PL-2', 'AC-19', 'SA-4', 'MA-5(4)']
+[0.22958848, 0.22345626, 0.2025804, 0.20174125, 0.19974443, 0.19457442, 0.19335349, 0.18041563]
+['ID.GV-1', 'ID.GV-3', 'ID.SC-3', 'ID.AM-6', 'PR.PT-3']
+[0.117961735, 0.10932036, 0.10582502, 0.10335552, 0.097052366]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing the details necessary for IoT device customers to monitor IoT devices and associated systems.
+['SI-4', 'SI-4(16)', 'PE-6(4)', 'CA-7(4)', 'SI-4(17)', 'PM-14', 'RA-6', 'PL-2']
+[0.26806906, 0.23049341, 0.2046723, 0.20431246, 0.20048015, 0.19743423, 0.19300964, 0.19102828]
+['DE.CM-6', 'DE.CM-3', 'DE.CM-1', 'DE.CM-2', 'PR.AT-5']
+[0.19825178, 0.19309612, 0.18596315, 0.18438397, 0.1780797]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation to IoT device customers describing how to perform monitoring activities. 
+['SI-4', 'SI-4(16)', 'PM-14', 'SA-5', 'CA-7(4)', 'SI-4(8)', 'PE-6(4)', 'SI-4(17)']
+[0.28068793, 0.24422, 0.23673248, 0.22936255, 0.22780919, 0.21765429, 0.21440549, 0.21395196]
+['DE.CM-6', 'DE.CM-3', 'PR.AT-5', 'DE.CM-7', 'DE.CM-1']
+[0.19817315, 0.19290848, 0.19176713, 0.18286113, 0.17820619]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation describing IoT device behavior indicators that could occur when an attack is being launched.
+['SI-4', 'SA-5', 'RA-6', 'SI-4(16)', 'SI-4(17)', 'PL-2', 'SA-4', 'PM-14']
+[0.2333787, 0.22058213, 0.21914636, 0.19559856, 0.19549914, 0.19417709, 0.17456613, 0.17106831]
+['PR.AT-5', 'DE.CM-3', 'DE.CM-6', 'DE.CM-1', 'DE.CM-2']
+[0.16542646, 0.15252799, 0.152271, 0.14558901, 0.14435269]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation describing details necessary to identify unauthorized use of IoT devices and their associated systems.
+['SI-4', 'PL-2', 'SA-5', 'SI-4(16)', 'AC-20(5)', 'SA-4', 'SI-4(17)', 'RA-6']
+[0.23841651, 0.23468772, 0.23174365, 0.21237181, 0.20957784, 0.20227717, 0.19743259, 0.19636726]
+['DE.CM-3', 'DE.CM-6', 'PR.AT-5', 'DE.CM-1', 'DE.CM-2']
+[0.18324342, 0.18248446, 0.17901084, 0.17605835, 0.17456327]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation to the IoT device customers that describes indicators of unauthorized use of the IoT device.
+['SA-5', 'SI-4', 'AC-20(5)', 'RA-6', 'PL-2', 'SI-4(16)', 'MP-7', 'SA-10']
+[0.23025528, 0.2224198, 0.21469569, 0.20820239, 0.19542779, 0.18763287, 0.18355495, 0.1790091]
+['PR.AT-5', 'DE.CM-6', 'DE.CM-3', 'DE.CM-7', 'DE.CM-1']
+[0.16657646, 0.15929109, 0.15358831, 0.15168259, 0.1466011]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation to IoT device customers describing how to implement and securely deploy monitoring devices and tools for IoT devices and associated systems.
+['SI-4', 'SI-4(16)', 'SI-4(9)', 'SA-5', 'PM-14', 'CA-7(4)', 'PL-2', 'AC-19']
+[0.2785808, 0.25887436, 0.23748758, 0.22636986, 0.2136285, 0.20662232, 0.20178853, 0.20014623]
+['DE.CM-6', 'DE.CM-3', 'DE.CM-7', 'PR.AT-5', 'DE.CM-1']
+[0.16853473, 0.16377482, 0.16342835, 0.15868175, 0.15740752]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation to IoT device customers describing how and when to heighten the level of security for an IoT device and associated systems.
+['SA-5', 'SI-4', 'PL-2', 'SI-4(17)', 'SI-4(16)', 'SA-4', 'RA-6', 'AC-20(5)']
+[0.21532215, 0.21219884, 0.19923036, 0.19770843, 0.19309837, 0.18211444, 0.18176658, 0.17793977]
+['PR.AT-5', 'PR.AT-3', 'DE.CM-6', 'PR.AT-2', 'PR.AT-4']
+[0.190291, 0.15955007, 0.15868045, 0.15753275, 0.15365764]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing documentation to IoT device customers describing how to use the security controls and monitoring capabilities built within the IoT device, and how to configure the device to best fit the risk levels within the systems where they are used.
+['SI-4', 'PM-14', 'SA-5', 'CA-7(4)', 'AC-19', 'SI-4(16)', 'AC-20(5)', 'PL-2']
+[0.2568318, 0.20653513, 0.2031747, 0.20288211, 0.20257029, 0.20155722, 0.19435498, 0.19234996]
+['DE.CM-6', 'DE.CM-3', 'DE.CM-7', 'DE.CM-1', 'DE.CM-2']
+[0.15640225, 0.15217957, 0.14895901, 0.1464273, 0.14518383]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+2.	Cybersecurity State Awareness: Establish communications explaining how to use monitoring systems, possible monitoring activities, the use of devices and tools, and descriptions of security level changes. 
+Providing the details necessary to implement management and operational controls for when and how to generate internal security alerts, advisories, and directives about the IoT devices.
+['SI-5', 'SI-5(1)', 'SI-4', 'PL-2', 'SI-4(16)', 'RA-6', 'PM-14', 'SA-5']
+[0.3397351, 0.28076676, 0.25494438, 0.2377658, 0.20931844, 0.20723695, 0.20641303, 0.20565103]
+['PR.AT-5', 'DE.CM-6', 'DE.CM-3', 'DE.CM-1', 'DE.CM-2']
+[0.17499027, 0.16571607, 0.16073817, 0.15181488, 0.15052566]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+3.	Data Protection: Establish communications to provide the IoT device customers with the details necessary to establish and modify IoT device data integrity controls. 
+Providing IoT device customers with the details necessary to support secure implementation of the IoT device and associated systems data integrity controls.
+['SA-5', 'AC-19', 'SC-8', 'PL-2', 'SA-8(19)', 'SA-4', 'SA-10', 'AC-3(9)']
+[0.23797515, 0.23643935, 0.21424371, 0.19530605, 0.19401184, 0.19392554, 0.18134128, 0.17724836]
+['PR.DS-6', 'PR.DS-8', 'PR.DS-5', 'PR.PT-3', 'PR.DS-4']
+[0.15459599, 0.15243149, 0.1466125, 0.13691366, 0.13600753]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+3.	Data Protection: Establish communications to provide the IoT device customers with the details necessary to establish and modify IoT device data integrity controls. 
+Providing IoT device customers with documentation describing the data integrity controls built into the IoT device and how to use them. If there are no data integrity controls built into the IoT device, include documentation explaining to IoT device customers the ways to achieve IoT device data integrity.
+['AC-19', 'SC-8', 'SA-5', 'SA-9(7)', 'AC-19(5)', 'IA-3', 'AC-4(6)', 'AC-19(2)']
+[0.26216942, 0.22404692, 0.21979699, 0.19859436, 0.18744013, 0.18411133, 0.18194896, 0.18169455]
+['PR.DS-6', 'PR.DS-8', 'PR.DS-5', 'PR.DS-1', 'PR.DS-2']
+[0.19358918, 0.19109406, 0.15838267, 0.15202743, 0.15166093]
+
+
+A. Documentation from the Manufacturer 
+2.	Document the technical cybersecurity capabilities, such as those detailed within NISTIR 8259A and within the full IoT cybersecurity technical catalog, that are implemented within the IoT device and how to configure and use them. 
+4.	Device Identity: Establish communications describing how to establish unique identification for the IoT device. 
+Providing details for how to establish unique identification for each IoT device associated with the system and critical system components within which it is used.
+['SR-4(2)', 'IA-3', 'CP-2(8)', 'IA-3(4)', 'AC-19', 'IA-2', 'IA-12', 'IA-12(2)']
+[0.30091858, 0.26763147, 0.21918225, 0.21549192, 0.20683491, 0.20266777, 0.20057912, 0.1898054]
+['PR.PT-3', 'ID.BE-4', 'ID.SC-3', 'ID.AM-1', 'ID.AM-6']
+[0.11297285, 0.107502416, 0.10633518, 0.10586392, 0.10262141]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Logical Access to Interfaces: Establish communications with detailed instructions for using authentication techniques supported by IoT platforms. 
+Providing documentation describing the specific IoT platforms used with the device to support required IoT authentication control techniques.
+['SC-27', 'IA-3', 'IA-3(4)', 'SA-5', 'IA-10', 'IA-11', 'IA-2(2)', 'IA-2(1)']
+[0.33316028, 0.26724857, 0.2610793, 0.2352392, 0.22042342, 0.20729685, 0.20607577, 0.20557922]
+['PR.AC-7', 'ID.AM-2', 'PR.AC-1', 'PR.AC-4', 'PR.AC-6']
+[0.14342088, 0.12991765, 0.12934281, 0.12741187, 0.12563919]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Logical Access to Interfaces: Establish communications with detailed instructions for using authentication techniques supported by IoT platforms. 
+Providing documentation with details about the capabilities of the IoT platform used to support device interface controls, and descriptions for if and how a second factor for authentication can be implemented.
+['SC-27', 'IA-2(6)', 'IA-3(4)', 'IA-3', 'IA-2(2)', 'SA-4(2)', 'AC-7(4)', 'IA-2(1)']
+[0.31305408, 0.2607826, 0.26057282, 0.25796887, 0.23275328, 0.2325807, 0.23214053, 0.23202339]
+['PR.AC-7', 'ID.AM-2', 'PR.AC-1', 'PR.AC-4', 'PR.AC-6']
+[0.18047926, 0.1253578, 0.12520434, 0.120943375, 0.11926695]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Logical Access to Interfaces: Establish communications with detailed instructions for using authentication techniques supported by IoT platforms. 
+Providing documentation with details describing external authentication IoT platforms, and associated authentication methods, that can be used with the IoT device.
+['IA-3(4)', 'SC-27', 'IA-3', 'IA-3(2)', 'IA-11', 'IA-2(1)', 'IA-2(2)', 'IA-10']
+[0.31663, 0.31599587, 0.30583492, 0.26365316, 0.26122388, 0.26120174, 0.2587969, 0.24853738]
+['PR.AC-7', 'PR.AC-6', 'PR.AC-1', 'PR.AC-4', 'PR.AC-3']
+[0.16396981, 0.15009436, 0.14864703, 0.14727676, 0.1392159]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications that provide details about the security capabilities of the IoT device software components. 
+Providing details about how the security capabilities of the IoT device software components meet regulatory and other legal and policy requirements. 
+['AC-19', 'SA-17(2)', 'SA-4(2)', 'SA-4', 'SA-5', 'SA-10(1)', 'SA-22', 'IA-3']
+[0.30353495, 0.2512316, 0.22646944, 0.21786077, 0.21270038, 0.20856464, 0.20636842, 0.19649723]
+['ID.GV-3', 'ID.GV-1', 'ID.GV-2', 'ID.GV-4', 'ID.AM-5']
+[0.22883299, 0.16879791, 0.1423651, 0.1384598, 0.121499136]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+2.	Device Security: Establish communications for the IoT device customers with details for the security capabilities of the hardware components. 
+Providing the IoT device customers with details about the security capabilities of the IoT device hardware components. 
+['AC-19', 'SA-17(2)', 'CM-7(9)', 'SA-10(3)', 'IA-3', 'SA-4(2)', 'SA-5', 'IA-3(4)']
+[0.3008839, 0.2652023, 0.2569515, 0.22840324, 0.22373778, 0.223231, 0.20698552, 0.18910171]
+['ID.AM-5', 'ID.AM-6', 'PR.AC-7', 'ID.AM-1', 'PR.AT-3']
+[0.13342519, 0.11277917, 0.10123747, 0.09677263, 0.0900317]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications providing IoT device management details that can be incorporated within the IoT device customer’s system development life cycle. 
+Providing the details necessary for customers to 1) manage the IoT device within their system using their organizationally-defined system development life cycle's associated information security considerations, 2) assign individuals with IoT device information security roles and responsibilities, and 3) integrate the IoT device within the organizational information security risk management process.
+['SA-3', 'AC-19', 'PL-2', 'PM-10', 'SA-8', 'SA-10', 'PM-7', 'IA-3']
+[0.45903343, 0.2772573, 0.23298137, 0.21948975, 0.21740177, 0.21692228, 0.21415071, 0.21349709]
+['PR.IP-2', 'ID.AM-1', 'ID.AM-6', 'ID.AM-5', 'ID.SC-5']
+[0.20661649, 0.16276564, 0.1483486, 0.13575093, 0.13364461]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications providing IoT device management details that can be incorporated within the IoT device customer’s system development life cycle. 
+Providing communications and the detailed instructions for implementing a hierarchy of privilege levels to use with the IoT device and/or necessary associated information systems. 
+['SA-3', 'AC-19', 'SA-4(2)', 'IA-3', 'PL-2', 'SA-5', 'AC-19(3)', 'AC-19(2)']
+[0.29072905, 0.28684947, 0.22585563, 0.22365226, 0.21577838, 0.20504943, 0.20169276, 0.19320613]
+['ID.AM-1', 'PR.AC-4', 'PR.IP-2', 'ID.AM-6', 'PR.AC-7']
+[0.114938855, 0.10977762, 0.10808, 0.09917474, 0.097086325]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications providing IoT device management details that can be incorporated within the IoT device customer’s system development life cycle. 
+Providing communications with instructions and recommendations for how to incorporate IoT device management and associated security management, within the system development life cycle.
+['SA-3', 'AC-19', 'PL-7', 'CM-9', 'SA-10', 'PL-2', 'SA-8', 'SR-9(1)']
+[0.44819662, 0.25628382, 0.23072985, 0.22898488, 0.22530816, 0.21687002, 0.21657668, 0.21613635]
+['PR.IP-2', 'ID.AM-1', 'PR.AC-4', 'ID.AM-6', 'ID.AM-5']
+[0.14978538, 0.1199858, 0.103250265, 0.09915356, 0.09698713]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications that provide details about the manufacturer’s supply chain risk management process and the controls used within ongoing supply chain security assessment and authorization activities. 
+Providing documentation explaining how the manufacturer provides security oversight of their supporting entities, and how they assess the cybersecurity risks that those supporting entities present to the IoT devices and the systems within which they are implemented. 
+['SR-3', 'PM-30', 'IR-6(3)', 'SR-4(1)', 'RA-3(1)', 'SR-2', 'SR-6(1)', 'SR-1']
+[0.4170131, 0.40828857, 0.37520587, 0.3745888, 0.37217835, 0.36872256, 0.3683056, 0.3581319]
+['ID.SC-3', 'ID.SC-2', 'ID.SC-1', 'ID.SC-5', 'ID.SC-4']
+[0.40812045, 0.4023703, 0.37678716, 0.3691937, 0.3548608]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications that provide details about the manufacturer’s supply chain risk management process and the controls used within ongoing supply chain security assessment and authorization activities. 
+Providing documentation and information describing the security requirements included within the contractual requirements for the supporting entities. Such requirements may include implementing security practices, safeguards, access controls and assessments to provide oversight of the supporting entities’ activities.  
+['SR-3', 'RA-3(1)', 'SR-2', 'PM-30', 'SR-4(1)', 'SR-6(1)', 'SR-1', 'SA-4']
+[0.41349104, 0.39495948, 0.37831008, 0.3766406, 0.37576565, 0.37062776, 0.36226833, 0.36080545]
+['ID.SC-4', 'ID.SC-2', 'ID.SC-3', 'ID.SC-1', 'ID.SC-5']
+[0.35941935, 0.3512484, 0.34574857, 0.32504648, 0.31188893]
+
+
+A. Documentation from the Manufacturer 
+3.	Document device design and support considerations related to the IoT device. 
+1.	Device Security: Establish communications that provide details about the manufacturer’s supply chain risk management process and the controls used within ongoing supply chain security assessment and authorization activities. 
+Providing documentation describing the types of security and/or privacy certifications the manufacturer requires of their supporting entities.
+['SR-3', 'PM-30', 'SR-4(1)', 'RA-3(1)', 'SR-6(1)', 'IR-6(3)', 'SR-2', 'SR-1']
+[0.46283305, 0.42925808, 0.4240329, 0.41020343, 0.40961695, 0.40666297, 0.38508227, 0.37557232]
+['ID.SC-2', 'ID.SC-3', 'ID.SC-1', 'ID.SC-5', 'ID.SC-4']
+[0.3869623, 0.38064855, 0.3602993, 0.35646838, 0.3426525]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing the details and instructions necessary to perform necessary IoT device maintenance activities and repairs.
+['MA-2', 'MA-2(2)', 'MA-5', 'MA-6(3)', 'MA-5(5)', 'MA-7', 'MA-5(3)', 'MA-3']
+[0.5188532, 0.4495327, 0.39219114, 0.3815477, 0.3442558, 0.33994138, 0.30639932, 0.3044528]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'RC.CO-3', 'RC.CO-1']
+[0.42633575, 0.3496492, 0.09484723, 0.07096794, 0.061741784]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing communications and comprehensive documentation describing the IoT device maintenance operations performed by the manufacturer and the manufacturer’s supporting entities.
+['MA-2', 'MA-2(2)', 'MA-6(3)', 'MA-5', 'MA-7', 'MA-5(5)', 'MA-3', 'MA-5(3)']
+[0.47242007, 0.3891997, 0.38011122, 0.36857098, 0.3248972, 0.30332887, 0.2905183, 0.2882658]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'DE.CM-7', 'RC.CO-3']
+[0.39071208, 0.34333804, 0.08331786, 0.07661338, 0.07461657]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing communications and comprehensive documentation describing maintenance operations that the IoT device customer is required to perform. If such comprehensive IoT device maintenance operations documentation does not exist, the manufacturer should clearly communicate to IoT device customers that the user must perform these operations themselves. 
+['MA-2', 'MA-5', 'MA-2(2)', 'MA-6(3)', 'MA-7', 'MA-5(5)', 'SA-5', 'MA-5(3)']
+[0.41221726, 0.3707684, 0.3604177, 0.34961745, 0.30447984, 0.30351606, 0.29611626, 0.27194452]
+['PR.MA-1', 'PR.MA-2', 'PR.AT-3', 'ID.BE-5', 'RC.CO-3']
+[0.32962698, 0.29182765, 0.09076841, 0.07704517, 0.07547552]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing the details necessary for IoT device customers to perform required IoT device systems reviews. 
+['MA-2', 'MA-5', 'MA-2(2)', 'MA-6(3)', 'MA-5(5)', 'MA-7', 'MA-5(3)', 'MA-3']
+[0.421763, 0.35702172, 0.35022515, 0.32122862, 0.30095834, 0.28165025, 0.2689291, 0.25937563]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'PR.AT-3', 'PR.AC-7']
+[0.33073375, 0.28291798, 0.07486698, 0.07426123, 0.073161125]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing documentation that includes the suggested frequency of system review and maintenance activities for the IoT device.
+['MA-2', 'MA-2(2)', 'MA-6(3)', 'MA-5', 'MA-7', 'MA-3', 'MA-5(5)', 'MA-5(3)']
+[0.46999672, 0.4128268, 0.38043162, 0.3557998, 0.31861764, 0.31556478, 0.3107368, 0.29221186]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'RC.CO-3', 'PR.AC-7']
+[0.35650575, 0.30394694, 0.07550581, 0.06833049, 0.06020108]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing communications that include details for the recommended events that will trigger IoT device system reviews and/or maintenance by the manufacturer.
+['MA-2', 'MA-6(3)', 'MA-2(2)', 'MA-5', 'MA-7', 'MA-3', 'MA-5(5)', 'MA-6(1)']
+[0.44453, 0.38994092, 0.37387422, 0.3335167, 0.302874, 0.2942143, 0.28326058, 0.2735576]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'RC.CO-3', 'DE.AE-4']
+[0.34490484, 0.29521713, 0.07607608, 0.067859545, 0.06664116]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing communications and documentation detailing how to perform account management activities, using the technical IoT device capabilities, or through supporting systems and/or tools.
+['MA-2', 'MA-2(2)', 'MA-5', 'MA-6(3)', 'MA-3', 'MA-3(4)', 'MA-5(5)', 'MA-5(3)']
+[0.41498187, 0.36155957, 0.34195757, 0.34158945, 0.31375018, 0.3011099, 0.30077267, 0.27552664]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-3', 'RC.CO-2', 'DE.CM-7']
+[0.3489364, 0.28924102, 0.08202828, 0.08148798, 0.07240766]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing communications and documentation detailing how to perform recommended local and/or remote maintenance activities.
+['MA-2', 'MA-2(2)', 'MA-6(3)', 'MA-5', 'MA-7', 'MA-5(5)', 'MA-5(3)', 'MA-3']
+[0.48197743, 0.409101, 0.38003376, 0.37047103, 0.34402487, 0.33397418, 0.3109829, 0.29812497]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'RC.CO-3', 'PR.AC-3']
+[0.38887435, 0.35793948, 0.08055506, 0.07718985, 0.06696289]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications describing the  specifications and providing instructions for performing IoT device maintenance and repairs, for IoT device systems review, and for maintenance activities following trigger events. 
+Providing communications and documentation detailing the manufacturer’s recommended vulnerability and patch management plan.
+['MA-2', 'MA-2(2)', 'MA-6(3)', 'MA-5', 'MA-7', 'MA-3', 'MA-5(5)', 'MA-3(6)']
+[0.42658263, 0.35852998, 0.3553729, 0.31813633, 0.27850136, 0.26884452, 0.26876155, 0.266318]
+['PR.MA-1', 'PR.MA-2', 'RC.CO-2', 'RC.CO-3', 'ID.AM-1']
+[0.33771083, 0.28654373, 0.081196845, 0.07644398, 0.063526005]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+2.	Data Protection: Establish communications with instructions for removing all data from IoT devices prior to maintenance and repairs. 
+Providing IoT device customers the details necessary for them to know when and how to remove all data from IoT devices prior to removing the devices from facilities for offsite maintenance or repairs.
+['MA-2', 'MA-2(2)', 'MA-6(3)', 'MA-7', 'MA-5', 'SC-41', 'MA-6(1)', 'SI-19']
+[0.4444368, 0.31854257, 0.28711072, 0.23901354, 0.23291409, 0.22658227, 0.22126517, 0.21704343]
+['PR.MA-1', 'PR.MA-2', 'ID.AM-5', 'ID.AM-3', 'ID.AM-1']
+[0.29538712, 0.2263846, 0.10308707, 0.09890834, 0.0950537]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+2.	Data Protection: Establish communications with instructions for removing all data from IoT devices prior to maintenance and repairs. 
+Providing information describing how to use the IoT device capabilities to remove all data from the device.
+['MA-2', 'MA-6(3)', 'MA-2(2)', 'SI-19', 'AC-19', 'SC-41', 'MA-5', 'AC-4(25)']
+[0.3895325, 0.28952777, 0.28521982, 0.2567004, 0.24832061, 0.23064531, 0.2282993, 0.22458687]
+['PR.MA-1', 'PR.MA-2', 'PR.DS-5', 'PR.DS-1', 'PR.DS-2']
+[0.25813025, 0.20546407, 0.13229948, 0.13200976, 0.13169153]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications to provide the IoT device customers with the details necessary to support IoT device maintenance and diagnostic activities and documentation.
+Providing the details necessary to enable IoT device customers to monitor onsite and offsite IoT device maintenance activities. 
+['MA-2', 'MA-5', 'MA-2(2)', 'MA-6(3)', 'MA-4', 'MA-7', 'SA-5', 'AC-19']
+[0.285496, 0.26347938, 0.2610603, 0.25775698, 0.25300336, 0.24893883, 0.24017559, 0.22949259]
+['PR.MA-1', 'PR.MA-2', 'ID.AM-6', 'ID.AM-1', 'ID.AM-5']
+[0.18326831, 0.16691677, 0.11435149, 0.11246193, 0.09860143]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications to provide the IoT device customers with the details necessary to support IoT device maintenance and diagnostic activities and documentation.
+Providing the details necessary for maintaining records for nonlocal IoT device maintenance and diagnostic activities. 
+['MA-4', 'MA-4(2)', 'MA-4(1)', 'MA-4(6)', 'MA-4(7)', 'MA-2', 'MA-4(5)', 'MA-6(3)']
+[0.48244998, 0.40380794, 0.39113134, 0.36900014, 0.35530218, 0.34130073, 0.3318128, 0.32035092]
+['PR.MA-1', 'PR.MA-2', 'PR.AC-7', 'DE.DP-2', 'PR.AC-1']
+[0.20834848, 0.18975924, 0.07036012, 0.06574215, 0.065341435]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications to provide the IoT device customers with the details necessary to support IoT device maintenance and diagnostic activities and documentation.
+Providing the details necessary to implement management and operational controls for IoT device maintenance personnel and associated authorizations, and record-keeping of maintenance organizations and personnel.
+['MA-5', 'MA-2', 'MA-6(3)', 'MA-5(5)', 'MA-2(2)', 'MA-7', 'MA-4(5)', 'MA-3']
+[0.42353892, 0.40196747, 0.36895636, 0.36305735, 0.35137936, 0.33011937, 0.3183179, 0.3175832]
+['PR.MA-1', 'PR.MA-2', 'ID.AM-5', 'PR.AC-7', 'PR.AC-4']
+[0.26512453, 0.24320687, 0.10614167, 0.100576326, 0.100366846]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications to provide the IoT device customers with the details necessary to support IoT device maintenance and diagnostic activities and documentation.
+Providing communications describing the type and nature of the local and/or remote maintenance activities that will involve and require manufacturer personnel, or their contractors, once the device is purchased and deployed in the IoT device customer’s organization.
+['MA-5', 'MA-2', 'MA-7', 'SA-5', 'MA-4', 'AC-19', 'MA-6(3)', 'MA-2(2)']
+[0.32036677, 0.3190432, 0.31054097, 0.28195196, 0.27376553, 0.2726889, 0.2723677, 0.26616812]
+['PR.MA-2', 'PR.MA-1', 'ID.AM-6', 'ID.AM-1', 'PR.AC-3']
+[0.20023404, 0.19705108, 0.098193794, 0.09691697, 0.087374404]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications to provide the IoT device customers with the details necessary to support IoT device maintenance and diagnostic activities and documentation.
+Providing IoT device customers with the details necessary to implement management and operational controls in support of their security policies and legal requirements for IoT device maintenance for assigned organizationally-defined personnel or roles to follow. 
+['MA-5', 'MA-2', 'MA-6(3)', 'SA-5', 'MA-6', 'MA-2(2)', 'MA-7', 'AC-19']
+[0.3151725, 0.3105385, 0.29647794, 0.27759555, 0.2750931, 0.27370673, 0.26824632, 0.25897083]
+['PR.MA-1', 'PR.MA-2', 'ID.AM-6', 'ID.AM-5', 'ID.GV-3']
+[0.20917833, 0.19057661, 0.118036136, 0.11318035, 0.104802206]
+
+
+A. Documentation from the Manufacturer 
+4.	Document maintenance requirements for the IoT device. 
+1.	Device Acquisition and Maintenance: Establish communications to provide the IoT device customers with the details necessary to support IoT device maintenance and diagnostic activities and documentation.
+Providing documented descriptions of the specific maintenance procedures for defined maintenance tasks.
+['MA-2', 'MA-6(3)', 'MA-2(2)', 'MA-5', 'MA-7', 'MA-4', 'MA-3', 'MA-6']
+[0.41656104, 0.3957102, 0.37287483, 0.3634993, 0.3615984, 0.33152452, 0.3301916, 0.31717235]
+['PR.MA-1', 'PR.MA-2', 'ID.AM-1', 'ID.RA-1', 'ID.RA-3']
+[0.29354033, 0.26834738, 0.07492744, 0.07271733, 0.0726199]
+
+
+B.	Manufacturer Information and Query Reception
+1.	The ability for the manufacturer and/or supporting entity to receive maintenance and vulnerability information from their customers and other types of entities.  
+1.	Software Update: Establish methods for the customer to report software flaws to the manufacturer with the details necessary for the manufacturer to fix the software flaws. 
+Providing the details necessary to identify the type of software flaw, describe the characteristics of the flaw, and provide any suggestions for the manufacturer to consider when determining how to fix the software flaw.
+['SI-2', 'SI-2(2)', 'SI-2(3)', 'RA-5', 'SA-11(1)', 'SI-2(1)', 'SA-15(7)', 'SI-2(4)']
+[0.54202175, 0.40530574, 0.39085042, 0.26829046, 0.2600141, 0.25484088, 0.24914843, 0.23792028]
+['PR.MA-1', 'ID.AM-6', 'ID.AM-5', 'RS.AN-5', 'ID.SC-5']
+[0.085915744, 0.08566993, 0.0811247, 0.079153106, 0.073464535]
+
+
+B.	Manufacturer Information and Query Reception
+1.	The ability for the manufacturer and/or supporting entity to receive maintenance and vulnerability information from their customers and other types of entities.  
+1.	Software Update: Establish methods for the customer to report software flaws to the manufacturer with the details necessary for the manufacturer to fix the software flaws. 
+Providing instructions for the IoT device customer to use to send the manufacturer software flaw reports.
+['SI-2', 'SI-2(2)', 'SI-2(3)', 'RA-5', 'CM-11', 'SA-10(1)', 'MA-3(6)', 'CM-10(1)']
+[0.4532123, 0.32752332, 0.30559108, 0.26603627, 0.23460352, 0.23152725, 0.22784561, 0.22629733]
+['ID.AM-6', 'PR.AT-3', 'RS.AN-5', 'PR.MA-1', 'RC.CO-2']
+[0.10133738, 0.101063155, 0.094515964, 0.0849239, 0.077759996]
+
+
+B.	Manufacturer Information and Query Reception
+1.	The ability for the manufacturer and/or supporting entity to receive maintenance and vulnerability information from their customers and other types of entities.  
+1.	Software Update: Establish methods for the customer to report software flaws to the manufacturer with the details necessary for the manufacturer to fix the software flaws. 
+Providing a description of the procedures the manufacturer follows for processing the software flaw reports, determining which flaws need to be fixed, for scheduling  
+['SI-2', 'SI-2(2)', 'SI-2(3)', 'RA-5', 'SA-15(7)', 'SA-11(1)', 'SI-2(1)', 'CM-11']
+[0.49004206, 0.3715115, 0.35062948, 0.26842603, 0.24492586, 0.23552182, 0.23166648, 0.21633072]
+['PR.MA-1', 'PR.AT-3', 'PR.IP-1', 'RS.AN-5', 'ID.AM-6']
+[0.08122576, 0.07899218, 0.07805164, 0.077495486, 0.07719874]
+
+
+B.	Manufacturer Information and Query Reception
+1.	The ability for the manufacturer and/or supporting entity to receive maintenance and vulnerability information from their customers and other types of entities.  
+1.	Software Update: Establish methods for the customer to report software flaws to the manufacturer with the details necessary for the manufacturer to fix the software flaws. 
+Communicating device remediation efforts with stakeholders and IoT device customers.
+['SI-2', 'SI-2(2)', 'SI-2(3)', 'SI-2(1)', 'RA-5', 'CM-11', 'SI-2(4)', 'MA-3(6)']
+[0.45636997, 0.34047335, 0.29535323, 0.24394657, 0.24250852, 0.22162491, 0.22098355, 0.21626562]
+['ID.AM-6', 'PR.AT-3', 'RC.CO-3', 'PR.MA-1', 'RC.CO-2']
+[0.14154297, 0.12474849, 0.1154204, 0.095325634, 0.0932786]
+
+
+B.	Manufacturer Information and Query Reception
+1.	The ability for the manufacturer and/or supporting entity to receive maintenance and vulnerability information from their customers and other types of entities.  
+1.	Software Update: Establish methods for the customer to report software flaws to the manufacturer with the details necessary for the manufacturer to fix the software flaws. 
+Providing instructions for the IoT device customer to use to send other types of IoT device bug reports to the manufacturer.
+['SI-2', 'RA-5', 'SI-2(2)', 'SI-2(3)', 'MA-3(6)', 'SA-22', 'PL-8(2)', 'CM-11']
+[0.37159693, 0.25377914, 0.2437197, 0.2256733, 0.21965817, 0.21787038, 0.21612933, 0.20443942]
+['ID.AM-6', 'PR.AT-3', 'RS.AN-5', 'PR.MA-1', 'ID.SC-5']
+[0.10820367, 0.103734486, 0.09223479, 0.08507738, 0.079346016]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+1.	Cybersecurity State Awareness: Establish communications with the details necessary for answering customer questions about implementing cybersecurity event awareness and control directives. 
+Providing customers with answers that include the details necessary to implement IoT device and associated systems security directives for cybersecurity events in accordance with established time frames.
+['SI-5', 'AT-1', 'AU-12(4)', 'SR-6', 'SA-5', 'AU-2', 'SA-9', 'PM-26']
+[0.24024262, 0.16495502, 0.16426411, 0.16158468, 0.15389082, 0.15388447, 0.15126163, 0.15075876]
+['PR.AT-3', 'PR.AT-5', 'ID.AM-6', 'PR.AT-2', 'PR.AT-4']
+[0.2430942, 0.19652025, 0.18749186, 0.16570216, 0.16033925]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+1.	Cybersecurity State Awareness: Establish communications with the details necessary for answering customer questions about implementing cybersecurity event awareness and control directives. 
+Providing customers with a method of contacting the manufacturer to obtain answers to questions about cybersecurity events related to the IoT device, and related cybersecurity requirements noncompliance. 
+['SA-5', 'PM-26', 'SI-5', 'SA-9', 'IR-7(1)', 'SR-6', 'AU-12(4)', 'PL-8(2)']
+[0.17406875, 0.16753407, 0.16693772, 0.16642456, 0.15983704, 0.15772931, 0.14831775, 0.14757499]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'ID.AM-6']
+[0.2637782, 0.22807407, 0.19348691, 0.18636239, 0.17643909]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+2.	Device Acquisition and Maintenance: Establish ways for IoT device customers to document attempts to obtain the IoT device components or information.
+Providing the details necessary for IoT device customers to document attempts to obtain IoT device components, or IoT device information system service documentation when such documentation is either unavailable or nonexistent, and documenting the appropriate response for manufacturer employees, or supporting entities, to follow. 
+['SA-5', 'MA-6', 'AC-19', 'SR-6', 'SA-22', 'SA-9', 'CP-8(3)', 'IR-7(1)']
+[0.40303615, 0.20028399, 0.1935979, 0.19298136, 0.18180715, 0.18164766, 0.17218213, 0.16946447]
+['ID.AM-6', 'PR.AT-3', 'ID.AM-1', 'ID.SC-5', 'ID.AM-5']
+[0.176063, 0.1391644, 0.09610794, 0.09139486, 0.08960912]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+2.	Device Acquisition and Maintenance: Establish ways for IoT device customers to document attempts to obtain the IoT device components or information.
+Following procedures to obtain input from IoT device customers about the breadth and depth of the technical documentation provided with the IoT device to determine if it is acceptable to support customer needs.
+['SA-5', 'MA-6', 'AC-19', 'SA-22', 'SA-9', 'RA-5(3)', 'IR-7(1)', 'SR-6']
+[0.31491038, 0.22740096, 0.19133048, 0.19113088, 0.18964554, 0.1891098, 0.18690006, 0.17939043]
+['ID.AM-6', 'PR.AT-3', 'ID.SC-5', 'ID.AM-1', 'ID.SC-2']
+[0.19539274, 0.17752329, 0.10135761, 0.09864565, 0.09355329]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+3.	Device Acquisition and Maintenance: Establish customer communications methods to the manufacturer to allow for questions about the security of the IoT device, ask for help with securing the IoT device, or related questions.
+Providing a process to IoT device customers to follow to contact the manufacturer to ask questions or obtain help related to the minimum requirements they need to implement for the IoT device configuration settings.
+['SA-5', 'PM-26', 'AC-19', 'CM-6', 'IR-7(1)', 'SR-6', 'IR-7(2)', 'PM-20']
+[0.20003927, 0.1770036, 0.17613403, 0.17431271, 0.17205895, 0.16451018, 0.16203068, 0.1530313]
+['ID.AM-6', 'PR.AT-3', 'RS.CO-1', 'ID.SC-5', 'ID.SC-3']
+[0.14981066, 0.14220475, 0.09847053, 0.09767537, 0.08635549]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+4.	Establish a customer services support communications capability to respond to customer calls and queries.
+Providing the details necessary for IoT device customers to contact the manufacturer’s call center with questions, concerns, or to report potential security or privacy problems with their IoT device
+['IR-7(1)', 'AU-12(4)', 'SA-9(4)', 'CP-8(3)', 'SR-6', 'SA-9', 'IA-9', 'IR-7(2)']
+[0.22531149, 0.2116058, 0.19588573, 0.18452804, 0.179724, 0.17591149, 0.17584103, 0.17296225]
+['ID.AM-6', 'PR.AT-3', 'RS.AN-5', 'ID.SC-5', 'RC.CO-1']
+[0.16809794, 0.16048819, 0.11186827, 0.11006138, 0.097112164]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+4.	Establish a customer services support communications capability to respond to customer calls and queries.
+Establishing policies and procedures for call center staff to follow to verify the identity of customers. 
+['AU-12(4)', 'IA-9', 'IR-7(1)', 'CP-8(3)', 'SA-9', 'SA-9(4)', 'IR-7(2)', 'SA-9(2)']
+[0.22913153, 0.21421269, 0.20536646, 0.18300377, 0.18211824, 0.1786395, 0.17295796, 0.16836113]
+['PR.AT-3', 'ID.AM-6', 'ID.SC-5', 'RS.AN-5', 'ID.SC-2']
+[0.17746994, 0.17746833, 0.1272214, 0.11727105, 0.10996818]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+4.	Establish a customer services support communications capability to respond to customer calls and queries.
+Establishing policies and procedures for call center staff to follow to document IoT device customer calls.
+['AU-12(4)', 'IR-7(1)', 'IA-9', 'SA-9', 'CP-8(3)', 'IR-7(2)', 'SA-9(4)', 'SA-9(2)']
+[0.2111291, 0.19210158, 0.17750332, 0.17115808, 0.16649619, 0.15771325, 0.15563865, 0.15125093]
+['ID.AM-6', 'PR.AT-3', 'ID.SC-5', 'RS.AN-5', 'ID.SC-2']
+[0.16433781, 0.16352646, 0.11256153, 0.1057699, 0.097330235]
+
+
+B.	Manufacturer Information and Query Reception
+2.	The ability for the manufacturer and/or supporting entity to respond to customer and third-party queries about cybersecurity of the IoT device (e.g., customer support)
+4.	Establish a customer services support communications capability to respond to customer calls and queries.
+Providing an online communications portal for IoT device customers to use to receive and respond to security questions, report areas of concern, and other IoT device related communications.
+['IR-7(1)', 'AU-12(4)', 'IA-9', 'SA-9(4)', 'IR-7(2)', 'CP-8(3)', 'IR-7', 'SR-6']
+[0.23640005, 0.21223941, 0.19220677, 0.17718464, 0.17591985, 0.17530912, 0.16748716, 0.16515562]
+['RS.AN-5', 'PR.AT-3', 'ID.AM-6', 'RS.AN-4', 'RS.CO-3']
+[0.17130655, 0.16674678, 0.158866, 0.12696719, 0.122336954]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Data Protection: Establish communications with the details necessary for maintaining IoT device data integrity during software modifications. 
+Providing details for how to review and update the IoT device and associated systems while preserving data integrity. 
+['SI-1', 'SC-8', 'AU-16(3)', 'SA-10(5)', 'SI-7(5)', 'SI-7(8)', 'SA-9(7)', 'AC-19']
+[0.2477416, 0.2383707, 0.22789273, 0.22764397, 0.21849291, 0.21010199, 0.20496128, 0.20110577]
+['PR.DS-6', 'PR.DS-8', 'PR.DS-1', 'PR.DS-2', 'PR.DS-5']
+[0.21484195, 0.19583228, 0.16964726, 0.1692383, 0.16871099]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Data Protection: Establish communications with the details necessary for maintaining IoT device data integrity during software modifications. 
+Providing information detailing the trigger events that will result in automated updates to the IoT devices, or will indicate the need for a manual update.
+['SI-2(5)', 'SI-1', 'SI-7(5)', 'SC-1', 'SA-17(2)', 'SI-7(8)', 'AC-19', 'SA-11(4)']
+[0.26631054, 0.2293522, 0.22542788, 0.20663784, 0.20133573, 0.19998227, 0.19735858, 0.19718814]
+['PR.DS-6', 'PR.DS-8', 'PR.IP-6', 'PR.DS-1', 'PR.DS-5']
+[0.15424949, 0.13032445, 0.12254555, 0.12193912, 0.121903405]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Data Protection: Establish communications with the details necessary for maintaining IoT device data integrity during software modifications. 
+Providing communications with details about updates and possible impacts to IoT device data integrity (e.g., alerting users if an update will delete data).
+['SI-7(8)', 'SI-7(5)', 'SI-1', 'SC-8', 'SI-2(5)', 'SA-10(5)', 'SA-9(7)', 'AC-23']
+[0.2500413, 0.24443887, 0.22410108, 0.22299218, 0.21535046, 0.21365951, 0.21251784, 0.20950055]
+['PR.DS-6', 'PR.DS-8', 'PR.DS-1', 'PR.DS-2', 'PR.DS-5']
+[0.2274622, 0.20580812, 0.18188427, 0.18144579, 0.180498]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+2.	Software Update: Establish communications with the details necessary to meet customer requirements for software updates for flaw remediation and security-relevant reasons. 
+Providing details for performing the tests necessary for IoT device and related system software updates related to flaw remediation, for effectiveness and to identify potential side effects before installation.
+['SI-2', 'SI-2(2)', 'SI-2(5)', 'SA-17(2)', 'SI-2(3)', 'SI-2(1)', 'CM-11', 'SA-10(6)']
+[0.5992348, 0.42075613, 0.35764676, 0.328042, 0.2935607, 0.26886088, 0.2674139, 0.24092771]
+['PR.AT-3', 'DE.CM-7', 'PR.AT-5', 'PR.AT-2', 'DE.CM-6']
+[0.13563518, 0.1203848, 0.11344902, 0.10856959, 0.10677125]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+2.	Software Update: Establish communications with the details necessary to meet customer requirements for software updates for flaw remediation and security-relevant reasons. 
+Providing communications describing the types of security and privacy tests necessary for the IoT device and software before installation.
+['SI-2', 'SA-17(2)', 'SI-2(5)', 'SI-2(2)', 'CM-11', 'SA-10(6)', 'SA-22', 'CM-11(1)']
+[0.4752108, 0.37233576, 0.31459215, 0.31421158, 0.31152105, 0.25676998, 0.25249374, 0.25071582]
+['PR.AT-3', 'PR.IP-5', 'PR.IP-1', 'PR.IP-4', 'ID.AM-6']
+[0.12199672, 0.11050316, 0.1086556, 0.10845729, 0.1078057]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+2.	Software Update: Establish communications with the details necessary to meet customer requirements for software updates for flaw remediation and security-relevant reasons. 
+Providing the details necessary for the installation of IoT devices and associated systems security-relevant software updates within an organizationally-defined time period from the vendor release of the updates.
+['SI-2', 'SA-17(2)', 'SI-2(5)', 'SI-2(2)', 'SA-10(6)', 'CM-11', 'CM-8(1)', 'SA-22']
+[0.48355836, 0.38683844, 0.3701283, 0.31709337, 0.30628976, 0.28996378, 0.2858069, 0.28205988]
+['PR.AT-3', 'ID.AM-6', 'ID.AM-5', 'ID.SC-3', 'PR.IP-5']
+[0.12840173, 0.11352043, 0.10008853, 0.09935754, 0.09175762]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Unsupported IoT Device: Establish communications describing the security impacts of using the IoT device when the manufacturer no longer supports or provides functionality for the IoT device. 
+Providing information with the details necessary to determine exceptions and/or alternatives to replacing unsupported IoT devices. 
+['SA-22', 'SA-22(1)', 'AC-19', 'CP-11', 'SC-7(24)', 'IA-3', 'SC-42', 'CP-13']
+[0.45790595, 0.31365976, 0.19184592, 0.16773298, 0.1640022, 0.16234617, 0.15143286, 0.15083566]
+['ID.AM-6', 'PR.AT-3', 'PR.IP-1', 'ID.SC-3', 'PR.AT-5']
+[0.100213304, 0.09409037, 0.089480236, 0.07884998, 0.0750514]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Unsupported IoT Device: Establish communications describing the security impacts of using the IoT device when the manufacturer no longer supports or provides functionality for the IoT device. 
+Providing information to allow for in-house support from within the IoT device customer organization. 
+['SA-22', 'AC-19', 'IR-7(1)', 'SA-22(1)', 'MP-7', 'PL-8(2)', 'IA-3', 'SA-5']
+[0.36959267, 0.22043489, 0.18264398, 0.17537597, 0.17148054, 0.16867612, 0.16541603, 0.16205789]
+['ID.AM-6', 'PR.AT-3', 'ID.AM-1', 'PR.IP-1', 'ID.AM-5']
+[0.13486661, 0.117239825, 0.10009292, 0.09623008, 0.09104419]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Unsupported IoT Device: Establish communications describing the security impacts of using the IoT device when the manufacturer no longer supports or provides functionality for the IoT device. 
+Providing information with the details describing service contract completion and the situations that define the end of the system integrator or external service provider relationship. This is important to know for re-compete, potential changes in providers, and also to manage system end-of-device-life processes. 
+['SA-9', 'SA-22', 'SA-9(3)', 'SA-9(4)', 'IR-7(2)', 'CP-8(3)', 'SC-12(6)', 'PS-7']
+[0.3698152, 0.32595876, 0.30137613, 0.2998559, 0.29305488, 0.27712315, 0.26381582, 0.2501776]
+['PR.AT-3', 'ID.AM-6', 'ID.SC-5', 'DE.CM-6', 'RC.CO-1']
+[0.15728535, 0.14747638, 0.12808743, 0.12783003, 0.11866975]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Cybersecurity State Awareness: Establish communications with the details for responding to privacy and security and maintenance alerts, advisories, and directives from outside of their organization. 
+Providing information with the details necessary to disseminate privacy and security alerts, advisories, and directives about the IoT devices, and associated systems and then take the necessary actions.
+['SI-5', 'SI-5(1)', 'SI-4(12)', 'AU-5(2)', 'SI-4(5)', 'MA-1', 'SC-1', 'PS-1']
+[0.5365833, 0.51905084, 0.30766553, 0.26498976, 0.2577195, 0.22956218, 0.22277, 0.21997592]
+['PR.AT-5', 'PR.AT-3', 'PR.AT-4', 'PR.AT-1', 'PR.AT-2']
+[0.14917198, 0.14126278, 0.1406764, 0.12961495, 0.12794451]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Cybersecurity State Awareness: Establish communications with the details for responding to privacy and security and maintenance alerts, advisories, and directives from outside of their organization. 
+Providing information to IoT device customers necessary to inform the review and update of the IoT device systems and services practices.
+['SI-5', 'SI-5(1)', 'SI-4(12)', 'AU-5(2)', 'SI-4(5)', 'MA-1', 'SA-1', 'AT-1']
+[0.38948157, 0.36396605, 0.24752782, 0.21369186, 0.2109542, 0.20822202, 0.20430702, 0.19982049]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-1', 'PR.AT-4', 'PR.AT-2']
+[0.18397471, 0.1692457, 0.1528929, 0.15152517, 0.14880627]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Cybersecurity State Awareness: Establish communications with information necessary for IoT device customers to receive the manufacturer’s external and internal security alerts, advisories, and directives. 
+Providing information with the details necessary to implement management and operational controls for how and when IoT device customers will receive up-to-date security and privacy information from the manufacturer, or supporting entity. 
+['SI-5', 'SI-5(1)', 'SC-37(1)', 'SI-4(12)', 'PS-7', 'SA-5', 'AC-3(9)', 'SA-9']
+[0.40420932, 0.3411002, 0.23557764, 0.22370088, 0.21094178, 0.20975432, 0.20609526, 0.2041969]
+['PR.AT-3', 'RS.AN-5', 'ID.AM-6', 'PR.AT-5', 'RS.CO-5']
+[0.18383066, 0.16412047, 0.14871722, 0.14799131, 0.12969506]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Cybersecurity State Awareness: Establish communications with information necessary for IoT device customers to receive the manufacturer’s external and internal security alerts, advisories, and directives. 
+Providing information with the details and instructions necessary to receive the manufacturer’s security and privacy updates, such as IoT device information system security and privacy alerts, advisories, directives, security and/or privacy research, and other information that would be valuable for IoT device customers to help ensure security and privacy of the IoT device.
+['SI-5', 'SI-5(1)', 'SI-4(12)', 'SI-4(5)', 'RA-8', 'AC-3(5)', 'SC-37(1)', 'AU-5(2)']
+[0.48412952, 0.4234909, 0.26999846, 0.23393565, 0.21975958, 0.2186023, 0.21762885, 0.21682331]
+['RS.AN-5', 'PR.AT-3', 'PR.AT-5', 'ID.AM-6', 'PR.AT-4']
+[0.17746665, 0.15870674, 0.13338062, 0.1308262, 0.123493806]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+1.	Cybersecurity State Awareness: Establish communications with information necessary for IoT device customers to receive the manufacturer’s external and internal security alerts, advisories, and directives. 
+Providing information to IoT device customers to inform them when to review and update the IoT device systems, based upon specific device states, and to provide a description of the services practices.
+['SI-5', 'SI-5(1)', 'SA-9', 'SI-4(12)', 'AC-19', 'SA-9(2)', 'SC-37(1)', 'PS-7']
+[0.38775685, 0.3245622, 0.22501294, 0.2149601, 0.2090315, 0.20806436, 0.20393535, 0.19909248]
+['PR.AT-3', 'ID.AM-6', 'PR.AT-5', 'ID.BE-5', 'PR.AT-1']
+[0.18570775, 0.15594709, 0.15086964, 0.13996208, 0.1387283]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+2.	Device Acquisition and Maintenance: Establish communications notifying IoT device customers they should review and update the IoT device, systems and services acquisition practices.  
+Providing the instructions for following the manufacturer’s updates to the IoT device, systems and services acquisition practices.
+['SA-1', 'SA-9(1)', 'AC-19', 'SR-6', 'SR-5', 'SC-18(2)', 'SA-4(4)', 'SA-9(2)']
+[0.27803883, 0.2175656, 0.19617482, 0.1958585, 0.1927897, 0.19041967, 0.18125054, 0.16888727]
+['PR.IP-1', 'PR.AT-3', 'ID.AM-6', 'ID.BE-5', 'ID.BE-4']
+[0.1261116, 0.12178065, 0.11581988, 0.091995016, 0.079657674]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+2.	Device Acquisition and Maintenance: Establish communications notifying IoT device customers they should review and update the IoT device, systems and services acquisition practices.  
+Providing the details necessary for IoT device customers to document attempts to obtain IoT device components, or IoT device system service information when such information is either unavailable or nonexistent, and documenting the appropriate response for the manufacturer’s employees to follow.
+['SA-5', 'SA-1', 'AC-19', 'SR-6', 'SA-9(1)', 'SA-9', 'PS-7', 'CP-8(3)']
+[0.30391312, 0.22251919, 0.21579413, 0.2022418, 0.18869272, 0.181599, 0.1800891, 0.17978998]
+['ID.AM-6', 'PR.AT-3', 'ID.AM-1', 'ID.AM-5', 'PR.IP-1']
+[0.13502575, 0.11531257, 0.091410525, 0.08708074, 0.08475013]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+3.	Device Security: Establish communications with the details necessary for performing periodic IoT device security checks and/or audits.
+Providing the details requested by IoT device customers to perform periodic checks and/or audits to ensure IoT device security controls are functioning as intended following maintenance and repairs.
+['CA-9(1)', 'MA-2', 'AU-9', 'AC-19', 'AU-16', 'PE-3(2)', 'AU-16(2)', 'AU-3(1)']
+[0.28118065, 0.24899238, 0.21495953, 0.21074353, 0.18704142, 0.18612853, 0.18523778, 0.18252268]
+['PR.MA-1', 'PR.MA-2', 'PR.AT-3', 'PR.AT-5', 'PR.AT-2']
+[0.19006574, 0.15912445, 0.13988931, 0.12060955, 0.11270445]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+1.	The procedures to support the ability for the manufacturer and/or supporting entity to alert customers of the IoT device about cybersecurity relevant information.
+3.	Device Security: Establish communications with the details necessary for performing periodic IoT device security checks and/or audits.
+Providing IoT device customers, upon their request, with the tools, assistance, instructions, and other support for the IoT device to perform audit and log maintenance and repairs operations.
+['AU-9', 'IR-7(1)', 'IR-7', 'AU-4(1)', 'MA-2', 'AU-16', 'AU-5', 'AU-16(2)']
+[0.2768123, 0.2763685, 0.24001451, 0.2286052, 0.2280227, 0.21233329, 0.2114827, 0.20978822]
+['PR.MA-1', 'PR.MA-2', 'PR.AT-3', 'PR.AT-5', 'PR.AT-2']
+[0.22454597, 0.18145964, 0.14917652, 0.12660983, 0.119659424]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+2.	The procedures to support the ability for the manufacturer and/or supporting entity to notify customers of cybersecurity related events and information related to an IoT device throughout the support lifecycle. 
+
+a.	New IoT device vulnerabilities, associated details and mitigation actions
+Providing IoT device customers, upon their request, with the tools, assistance, instructions, and other support for the IoT device to perform audit and log maintenance and repairs operations.
+['IR-7(1)', 'IR-7', 'MA-2', 'SA-22', 'MA-6', 'MA-2(2)', 'AU-2', 'AU-9']
+[0.29885083, 0.24866411, 0.20868412, 0.20113759, 0.19374542, 0.18558292, 0.18063262, 0.1802246]
+['PR.MA-1', 'PR.AT-3', 'PR.MA-2', 'PR.AT-5', 'PR.AT-2']
+[0.1926147, 0.1569901, 0.14931998, 0.1325775, 0.12951604]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+2.	The procedures to support the ability for the manufacturer and/or supporting entity to notify customers of cybersecurity related events and information related to an IoT device throughout the support lifecycle. 
+1.	Device Security: Establish communications to notify customers of cybersecurity related events throughout the full time that the IoT device is in use. 
+Providing communications for cybersecurity related events involving or related to the IoT device
+['AU-2', 'AU-7(1)', 'AU-3', 'AC-9(3)', 'SC-1', 'SI-5(1)', 'IR-6(3)', 'IR-4(10)']
+[0.21877672, 0.1949883, 0.18994522, 0.18366365, 0.16660489, 0.1574733, 0.15582737, 0.15445723]
+['PR.AT-5', 'PR.AT-3', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.21938998, 0.21068814, 0.19284871, 0.18647169, 0.17197108]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+2.	The procedures to support the ability for the manufacturer and/or supporting entity to notify customers of cybersecurity related events and information related to an IoT device throughout the support lifecycle. 
+1.	Cybersecurity State Awareness: Establish communications for responding to IoT device breaches, associated fixes to vulnerabilities allowing the breaches, and breaches that have occurred for similar types of IoT devices. 
+Providing security incident and breach information in a timely manner.
+['IR-2(3)', 'IR-8(1)', 'IR-4', 'IR-4(8)', 'IR-8', 'IR-1', 'IR-4(4)', 'IR-6(3)']
+[0.3917119, 0.23369555, 0.22336647, 0.22018695, 0.21520846, 0.21408878, 0.19888237, 0.19086793]
+['PR.AT-5', 'PR.AT-3', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.16837856, 0.15997887, 0.15135098, 0.1476787, 0.13429213]
+
+
+C.	Information Dissemination – From the Manufacturer and/or Supporting Entity
+2.	The procedures to support the ability for the manufacturer and/or supporting entity to notify customers of cybersecurity related events and information related to an IoT device throughout the support lifecycle. 
+1.	Cybersecurity State Awareness: Establish communications for responding to IoT device breaches, associated fixes to vulnerabilities allowing the breaches, and breaches that have occurred for similar types of IoT devices. 
+Using notification and communications that include incident and breach information for the customer’s IoT device. 
+['IR-2(3)', 'IR-8(1)', 'IR-4', 'IR-4(8)', 'IR-8', 'IR-1', 'IR-6(3)', 'IR-4(4)']
+[0.3844421, 0.23737606, 0.22248223, 0.21963117, 0.20806916, 0.20791318, 0.19814666, 0.18708092]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'ID.AM-6']
+[0.16139477, 0.15316282, 0.1397319, 0.1341829, 0.12774312]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Identity: Provide education explaining how to establish and require unique identification for each IoT device. 
+Providing IoT device customers with the details necessary to establish and implement unique identification for each IoT device associated with the system and critical system components within which it is used. 
+['IA-3', 'SR-4(2)', 'AC-19', 'IA-3(4)', 'IA-2', 'IA-9', 'AC-14', 'IA-12']
+[0.32966068, 0.32882777, 0.28283834, 0.23004164, 0.22801551, 0.22656, 0.22264418, 0.21020204]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.20080183, 0.18685196, 0.18565759, 0.17885298, 0.15101324]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Identity: Provide education explaining how to establish and require unique identification for each IoT device. 
+Providing IoT device customers with the details necessary to require unique identifiers for each IoT device associated with the system and critical system components within which it is used. 
+['SR-4(2)', 'IA-3', 'IA-4', 'AC-19', 'SC-23(3)', 'IA-9', 'IA-2', 'IA-4(5)']
+[0.31652206, 0.3109291, 0.29123372, 0.28056052, 0.23963512, 0.21292469, 0.20751755, 0.2064939]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.2035476, 0.18980685, 0.18873498, 0.18189308, 0.1537968]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide IoT device customers with the education necessary to establish the IoT device configuration settings and requirements. 
+Providing IoT device customers with the education necessary to teach them how to establish then implement the minimum required IoT device configuration settings. 
+['CM-6', 'AC-19', 'CM-6(2)', 'CM-6(1)', 'CM-9', 'SA-10(2)', 'CM-6(3)', 'CM-8(6)']
+[0.35375434, 0.26424587, 0.25433815, 0.23331624, 0.23232846, 0.2192653, 0.21364741, 0.21263297]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.19024627, 0.16699627, 0.16546759, 0.15918195, 0.1442743]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide IoT device customers with the education necessary to establish the IoT device configuration settings and requirements. 
+Providing awareness communications (e.g., posters, short video clips, podcast tutorials) to the IoT device customers providing tips related to configuring the security capabilities for the devices, and perform related actions
+['CM-6', 'AC-19', 'PE-6(3)', 'CM-6(2)', 'CM-6(1)', 'AC-6(1)', 'CM-9', 'SA-10(2)']
+[0.25761405, 0.22963157, 0.22581309, 0.18666364, 0.183133, 0.18187436, 0.18179497, 0.17691147]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.21434551, 0.19880477, 0.19670221, 0.19119902, 0.17395794]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide IoT device customers with the education necessary to establish the IoT device configuration settings and requirements. 
+Providing IoT device customers with education demonstrating how to ensure the configuration changes can be performed only by authorized entities. 
+['CM-6', 'CM-9', 'AC-19', 'SA-10(2)', 'CM-3', 'CM-6(2)', 'SA-10', 'SA-4(5)']
+[0.30494443, 0.25388357, 0.25370878, 0.24454199, 0.23674296, 0.23655343, 0.21872588, 0.2141608]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.22977793, 0.20461255, 0.2023056, 0.19550243, 0.1773753]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide IoT device customers with the education necessary to establish the IoT device configuration settings and requirements. 
+Providing education detailing how to set the minimum configuration settings available within the IoT device, and how to change those settings, to meet customers' needs and requirements.
+['CM-6', 'CM-6(2)', 'CM-6(3)', 'CM-6(1)', 'CM-8(6)', 'AC-19', 'CM-9', 'CM-6(4)']
+[0.46699366, 0.3840289, 0.32914907, 0.31342903, 0.2580875, 0.24757756, 0.2410547, 0.22034717]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.19709986, 0.1745052, 0.17268561, 0.1665773, 0.14670658]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide IoT device customers with the education necessary to establish the IoT device configuration settings and requirements. 
+Providing education explaining the process IoT device customers need to follow to contact the manufacturer to ask questions or obtain help related to the minimum requirements for the IoT device configuration settings.
+['CM-6', 'CM-6(2)', 'AC-19', 'CM-6(1)', 'CM-9', 'SA-10(2)', 'CM-6(3)', 'SA-5']
+[0.3358539, 0.2478315, 0.2450102, 0.22886768, 0.22055607, 0.21140197, 0.19989657, 0.1935721]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.2084012, 0.18353267, 0.18092182, 0.17594074, 0.1490755]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide education for how to establish the IoT device access controls. 
+Providing education explaining how to establish and enforce approved authorizations for logical access to IoT device information and system resources.
+['AC-3', 'AC-19', 'IA-3', 'MP-7', 'AT-2', 'AC-24', 'PE-2', 'AC-19(3)']
+[0.27789745, 0.2672904, 0.21500069, 0.19834404, 0.19830224, 0.19056523, 0.18970639, 0.18735935]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-1']
+[0.23830894, 0.2352837, 0.23283702, 0.23007616, 0.19371116]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide education for how to establish the IoT device access controls. 
+Providing education explaining how to control access to IoT devices implemented within IoT device customer information systems.
+['AC-19', 'IA-3', 'AC-19(3)', 'AC-19(2)', 'AC-19(1)', 'MP-7', 'AC-3', 'AT-2']
+[0.27802062, 0.21896549, 0.21782614, 0.20866068, 0.20188436, 0.19628415, 0.19396032, 0.18623081]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.24161369, 0.22781914, 0.22742048, 0.21964988, 0.18708041]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide education for how to establish the IoT device access controls. 
+Providing education explaining how to enforce authorized access at the system level.
+['AC-19', 'AC-3', 'AT-2', 'MP-7', 'AC-24', 'AC-20(2)', 'IA-3', 'AC-19(3)']
+[0.24198663, 0.24086805, 0.22255829, 0.19143638, 0.17941517, 0.17825085, 0.178002, 0.1747069]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-1']
+[0.2705849, 0.26728156, 0.26423728, 0.26139396, 0.22026433]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide education explaining how to establish software update functionality. 
+Providing education explaining how to inspect IoT device and/or use maintenance tools to ensure the latest software updates and patches are installed.
+['MA-3(6)', 'SI-2(5)', 'CM-11', 'MA-3(1)', 'SI-8(2)', 'AC-19', 'CM-2(2)', 'SA-10(1)']
+[0.46540323, 0.25306627, 0.25281382, 0.23005527, 0.22456011, 0.21711086, 0.2094201, 0.20537058]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-1']
+[0.21678114, 0.21442793, 0.21139573, 0.20976727, 0.16849577]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+1.	Educate customers of the IoT device about the presence and use of device cybersecurity capabilities. 
+1.	Device Configuration: Provide education explaining how to establish software update functionality. 
+Providing education for how to scan for critical software updates and patches.
+['MA-3(6)', 'SA-22', 'AC-19', 'AT-2', 'SI-2(5)', 'SA-10(1)', 'RA-5(1)', 'SI-2(4)']
+[0.26128626, 0.22370301, 0.21964125, 0.21498844, 0.20196718, 0.2017186, 0.18807967, 0.18531641]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-1']
+[0.24595803, 0.24248937, 0.24066469, 0.23704831, 0.19909352]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+2.	Educate customers about how an IoT device can be securely reprovisioned or disposed of. 
+1.	Data Protection: Provide education explaining how to implement security safeguards within customers’ IoT device data handling and retention practices.
+Providing educations describing how to securely handle and retain IoT device data, associated systems data, and data output from the IoT device, to meet requirements of the IoT device customers’ organizational security policies, contractual requirements, applicable Federal laws, Executive Orders, directives, policies, regulations, standards, and other legal requirements. 
+['PM-23', 'AC-19', 'SA-8(20)', 'AT-2', 'SA-4', 'AC-23', 'PM-17', 'SC-1']
+[0.22357398, 0.2156847, 0.19760218, 0.1975223, 0.19241567, 0.19113512, 0.19009928, 0.18906887]
+['PR.AT-3', 'PR.AT-4', 'PR.AT-2', 'PR.DS-5', 'PR.DS-1']
+[0.18362845, 0.17780018, 0.16643113, 0.15977524, 0.15720844]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+2.	Educate customers about how an IoT device can be securely reprovisioned or disposed of. 
+1.	Data Protection: Provide education explaining how to implement security safeguards within customers’ IoT device data handling and retention practices.
+Providing education that explains and/or demonstrates how to securely and irreversibly to delete data from the IoT device and any associated data storage locations.
+['SA-8(20)', 'SA-9(5)', 'AC-4(6)', 'CM-12', 'SI-19', 'AC-4(25)', 'CM-12(1)', 'AC-23']
+[0.19033334, 0.18199123, 0.15762754, 0.15612535, 0.15602924, 0.15597893, 0.15451482, 0.15311164]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-4', 'PR.AT-5', 'PR.DS-5']
+[0.18520088, 0.17583562, 0.17003605, 0.16577183, 0.14121296]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education that explains the legal requirements governing IoT device maintenance responsibilities, or how to meet specific types of legal requirements when using the IoT device.
+['AC-19', 'MA-2', 'MA-5', 'IA-3', 'MA-6(3)', 'MA-2(2)', 'MA-7', 'MA-5(5)']
+[0.22831996, 0.21648298, 0.20369525, 0.18802421, 0.17748201, 0.17701219, 0.17517263, 0.16228223]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'ID.GV-3']
+[0.21221778, 0.2116665, 0.21072343, 0.20643242, 0.17378464]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials to ensure the individuals filling the established IoT device customer roles understand the requirements for specified maintenance procedures.
+['MA-2', 'MA-5', 'AC-19', 'MA-1', 'MA-6', 'MA-2(2)', 'MA-6(3)', 'MA-7']
+[0.22966766, 0.22681567, 0.20427279, 0.19341123, 0.19140281, 0.19020712, 0.18705006, 0.18482554]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.26717922, 0.2567962, 0.2540353, 0.24972549, 0.1893414]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials to support the responsibilities for IoT device customer’s data security roles.
+['AC-19', 'MA-2', 'AT-2', 'IA-3', 'MA-5', 'MA-6(3)', 'MA-6', 'SA-5']
+[0.19888766, 0.1810171, 0.17092201, 0.16220407, 0.16178073, 0.16092764, 0.15681371, 0.15200444]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.25933903, 0.24302286, 0.24248452, 0.2350587, 0.20191696]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials to IoT device customers explaining how to establish roles and responsibilities for IoT device data security, using the device capabilities and/or other services that communicate or interface with the device. 
+['AC-19', 'IA-3', 'MP-7', 'AC-19(3)', 'AC-19(2)', 'SA-5', 'AC-19(1)', 'AC-20(2)']
+[0.27178422, 0.22100331, 0.18205412, 0.17609894, 0.16868922, 0.16627802, 0.163211, 0.16057426]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.2342128, 0.22218426, 0.21888272, 0.21269421, 0.17251357]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials describing the IoT device capabilities for role-based controls, and how to establish different roles within the IoT device.
+['AC-19', 'IA-3', 'MA-2', 'MA-5', 'AC-3(7)', 'AT-2', 'PS-9', 'MA-6']
+[0.24271843, 0.19094758, 0.17285828, 0.16711456, 0.16067514, 0.15667836, 0.15348087, 0.15243441]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.22977181, 0.22929509, 0.22834405, 0.22370918, 0.18205993]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials for how to establish roles to support IoT device policies, procedures and associated documentation.
+['MA-1', 'AC-19', 'SA-5', 'SA-1', 'MA-2', 'AT-1', 'AT-2', 'IA-3']
+[0.21242163, 0.20534928, 0.19678758, 0.19289021, 0.18615332, 0.17600752, 0.17280741, 0.16918147]
+['PR.AT-5', 'PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-1']
+[0.26154727, 0.26117358, 0.26087707, 0.25602314, 0.21895988]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials to be used by IoT device customer personnel with information security responsibilities, and others as determined appropriate.
+['AC-19', 'MA-5', 'MA-2', 'AT-2', 'MA-5(5)', 'IA-3', 'SA-5', 'MA-4(5)']
+[0.19231741, 0.18123274, 0.17317858, 0.1674377, 0.16118391, 0.15974991, 0.1554293, 0.15523799]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.24105783, 0.23342556, 0.22534655, 0.21844044, 0.19601199]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+3.	Make customers aware of their cybersecurity responsibilities related to the IoT device and how responsibilities may be shared between them and others, such as the IoT device manufacturer. 
+1.	Device Acquisition and Maintenance: Provide education explaining in detail how to perform IoT device maintenance.
+Providing education and supporting materials explaining recommended IoT device roles and responsibilities to support the ability for IoT device customers to determine the appropriate level within their organizational hierarchy of privileges to establish those roles.
+['AC-19', 'MA-6', 'IA-3', 'MA-5', 'SA-5', 'MA-2', 'AT-2', 'AC-3(7)']
+[0.20634016, 0.1906239, 0.1725241, 0.16789812, 0.16532558, 0.16497584, 0.15914063, 0.1526824]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.22846091, 0.22543263, 0.21448228, 0.20973697, 0.16621436]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+4.	Provide training to IoT customers that explains the manufacturer’s key assumptions and expectations related to the cybersecurity of the IoT device. 
+1.	Device Security: Provide education that clearly describes the assumptions and expectations for how the IoT device customers will manage risk for the IoT device.  
+Providing education explaining the responsibilities of IoT device customers to perform their own risk assessments using the information provided by the manufacturer, to determine the risks the IoT device will bring into the IoT device customer’s systems.
+['AC-19', 'AT-2', 'PM-30(1)', 'SA-5', 'RA-3', 'PL-8(2)', 'SA-9(1)', 'IA-3']
+[0.19774738, 0.18896446, 0.18895671, 0.18562017, 0.17180733, 0.16676646, 0.16544862, 0.16192785]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.24862945, 0.21381916, 0.20908031, 0.20451178, 0.18243432]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+5.	Provide training for how to back-up the data collected from or derived by the IoT device, and how to access such data that is stored in cloud storage, or other repositories. 
+1.	Data Protection: Provide training explaining how to create and restore from IoT device data backups.
+Providing education to IoT device customers covering the instructions and details necessary for them to create accurate backups, and to recover the backups when necessary.  
+['CP-9', 'CP-9(1)', 'CP-9(8)', 'CP-9(5)', 'SA-16', 'CP-9(3)', 'CP-9(2)', 'CP-9(4)']
+[0.32748663, 0.3163951, 0.26925835, 0.25285244, 0.24854842, 0.24214935, 0.23820446, 0.22670491]
+['PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-5', 'PR.AT-1']
+[0.16463223, 0.16235125, 0.16104889, 0.15568154, 0.15494569]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+5.	Provide training for how to back-up the data collected from or derived by the IoT device, and how to access such data that is stored in cloud storage, or other repositories. 
+1.	Data Protection: Provide training explaining how to create and restore from IoT device data backups.
+Providing education to IoT device customers that includes instructions describing how to back up data from systems where IoT device data is stored.
+['AC-4(6)', 'AC-23', 'SA-8(20)', 'SA-16', 'SC-12(6)', 'CM-13', 'AC-4(19)', 'PM-23']
+[0.25949597, 0.25203723, 0.23318204, 0.23230912, 0.22538222, 0.22536623, 0.22099537, 0.21939456]
+['PR.DS-1', 'PR.DS-2', 'PR.DS-5', 'PR.AT-2', 'PR.AT-3']
+[0.17931312, 0.16517134, 0.16399047, 0.16180985, 0.16010027]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+5.	Provide training for how to back-up the data collected from or derived by the IoT device, and how to access such data that is stored in cloud storage, or other repositories. 
+1.	Data Protection: Provide training explaining how to create and restore from IoT device data backups.
+Providing awareness reminders and tips to IoT device customers (e.g., directly in person, in videos, in an online webinar) for various aspects involved with backing up the IoT device data.
+['AT-2', 'SA-16', 'AC-23', 'CM-13', 'AC-4(6)', 'SA-8(20)', 'AT-4', 'AC-20(4)']
+[0.21935768, 0.21721585, 0.21123807, 0.20817807, 0.20696893, 0.20360905, 0.20066863, 0.19827154]
+['PR.AT-2', 'PR.AT-3', 'PR.AT-4', 'PR.AT-5', 'PR.AT-1']
+[0.16186051, 0.15955256, 0.15834443, 0.15306723, 0.15231898]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+Providing education to IoT device customers for how to implement malicious code protection in the IoT device and associated systems, as well as within related systems entry and exit points, and how to detect and eradicate malicious code. 
+['SI-3', 'SI-3(10)', 'SI-3(6)', 'SI-3(4)', 'SC-35', 'SI-3(3)', 'SI-3(5)', 'SI-3(2)']
+[0.44541416, 0.32157028, 0.31690753, 0.2832253, 0.26053235, 0.23471987, 0.22128335, 0.21670401]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.23645899, 0.22008976, 0.21621054, 0.21178651, 0.19273438]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+Providing education to IoT device customers for how to update the IoT device and related systems malicious code protection mechanisms when new releases are available, in accordance with organizational configuration management policy and procedures.
+['SI-3', 'SI-3(4)', 'SI-3(6)', 'SI-3(10)', 'AT-2', 'AT-1', 'CM-1', 'SC-35']
+[0.33466196, 0.2858198, 0.2694898, 0.26825422, 0.22566749, 0.22131242, 0.21190834, 0.20367083]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.2791873, 0.26274836, 0.2577119, 0.25326955, 0.23065406]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+Providing training and awareness information to IoT device customers that describe newly identified vulnerabilities and threats (such as zero-day malware) for the associated IoT device.
+['AT-2', 'SI-3', 'AT-2(6)', 'RA-5', 'RA-3(3)', 'AT-1', 'SI-3(10)', 'SI-3(6)']
+[0.25521535, 0.25102618, 0.24498585, 0.22135961, 0.21842161, 0.20662142, 0.2044613, 0.19172722]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.26976004, 0.25498456, 0.24994305, 0.24595049, 0.22456774]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+If the IoT device manufacturer provides anti-malware for the associated IoT device, or if the IoT device has built-in anti-malware capabilities, the manufacturer should provide education to the IoT device customers describing how to use and/or configure malicious code protection mechanisms in IoT devices, supporting anti-malware tools, and related systems.
+['SI-3', 'SI-3(10)', 'SI-3(4)', 'SI-3(6)', 'SC-35', 'SI-3(3)', 'PL-8(2)', 'SI-3(5)']
+[0.36755723, 0.29983813, 0.25843018, 0.24385351, 0.24263898, 0.23735943, 0.22205411, 0.21200816]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.18863353, 0.16717333, 0.16409434, 0.16100816, 0.14530441]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+Providing education describing the operational impacts of the anti-malware activities on mission critical processes in the system where the IoT device is used.
+['SI-3', 'SI-3(10)', 'AT-2', 'AT-2(6)', 'SI-3(6)', 'SI-3(4)', 'PL-8(2)', 'SC-35']
+[0.288497, 0.2253254, 0.21245335, 0.20522036, 0.20062737, 0.1841509, 0.18400902, 0.17995144]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.24891925, 0.24162272, 0.24055107, 0.23319285, 0.20971082]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+Providing education describing the options and recommended responses to malicious code identification within the IoT device. 
+['SI-3', 'SI-3(10)', 'SI-3(6)', 'SC-35', 'SI-3(4)', 'AT-2', 'AT-2(6)', 'SC-26(1)']
+[0.31280214, 0.27125335, 0.2568234, 0.23362103, 0.21295452, 0.2069926, 0.18860862, 0.18397066]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-5', 'PR.AT-4', 'PR.AT-1']
+[0.23918568, 0.2304513, 0.22947578, 0.223309, 0.20072484]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+1.	Cybersecurity State Awareness: Provide education that describes the details necessary for malicious code protection, detection and eradication.
+Providing education that include the details necessary to implement management and operational controls for malicious code detection and eradication. 
+['SI-3', 'SI-3(10)', 'SI-3(6)', 'SC-35', 'SI-3(4)', 'AT-2', 'SI-4(1)', 'SC-26(1)']
+[0.34242043, 0.26614127, 0.2606381, 0.22165892, 0.21733098, 0.21234055, 0.21130322, 0.2112714]
+['PR.AT-3', 'PR.AT-5', 'PR.AT-2', 'PR.AT-4', 'PR.AT-1']
+[0.23627375, 0.22911705, 0.22799578, 0.22097668, 0.19867778]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+2.	Software Update: Provide education explaining and/or showing how to incorporate IoT device flaw remediation into the customer’s configuration management process.
+Providing the education explaining how to incorporate IoT device flaw remediation into the IoT device customer’s organizationally-defined configuration management process. 
+['SI-2', 'SI-2(1)', 'SI-2(2)', 'SI-2(3)', 'SI-2(4)', 'SA-10(2)', 'CM-9', 'RA-5']
+[0.40760136, 0.31650442, 0.29402906, 0.25299972, 0.24379459, 0.23546903, 0.21446934, 0.2119048]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-4', 'PR.AT-5', 'PR.AT-1']
+[0.19213034, 0.15812479, 0.14874308, 0.14378583, 0.122849375]
+
+
+D.	Education and Awareness from Manufacturers/Supporting Entities
+6.	Educate customers about threat and vulnerability management options available for the IoT device or associated system that could be used by customers.
+2.	Software Update: Provide education explaining and/or showing how to incorporate IoT device flaw remediation into the customer’s configuration management process.
+Providing the education explaining the processes that the manufacturer, or supporting entities, will follow to communicate the IoT device remediation efforts with stakeholders (IoT device customers, users, etc.).
+['SI-2', 'SI-2(1)', 'SI-2(2)', 'SI-2(4)', 'AT-2', 'RA-5', 'SI-2(3)', 'SA-10(2)']
+[0.31365454, 0.23560847, 0.22398646, 0.19685328, 0.18057796, 0.17973652, 0.17633727, 0.17057717]
+['PR.AT-3', 'PR.AT-2', 'PR.AT-4', 'PR.AT-5', 'ID.AM-6']
+[0.23325527, 0.17553858, 0.15910879, 0.1538061, 0.13796547]
+
+

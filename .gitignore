@@ -1,0 +1,9 @@
+*.trainables*
+*.wv*
+*.bin
+similarity_matrix_fasttext
+softcossim_matrix_fasttext
+FAST_TEXT_Dictionary
+FAST_TEXT
+.idea/*
+__pycache__
